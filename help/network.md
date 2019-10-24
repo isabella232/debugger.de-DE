@@ -13,7 +13,7 @@ source-git-commit: 3fd50cde86f0dfc5f66d8faf63112adf24beeac0
 
 # Netzwerkinformationen{#network-information}
 
-Um Netzwerkinformationen anzuzeigen, klicken Sie auf **[!UICONTROL Netzwerk]**.
+Um Netzwerkinformationen anzuzeigen, klicken Sie auf **[!UICONTROL Network]**.
 
 Der Bildschirm "Netzwerk"fasst alle Adobe Experience Cloud-Lösungsaufrufe zusammen, die auf der Seite getätigt wurden, und zeigt sie in der Reihenfolge von links nach rechts an. Standardparameter werden automatisch mit Anzeigenamen beschriftet und so angeordnet, dass allgemeine Parameter für dieselbe Rolle gruppiert werden.
 
@@ -25,7 +25,7 @@ Der Bildschirm "Netzwerk"fasst alle Adobe Experience Cloud-Lösungsaufrufe zusam
 >
 >Derzeit sind nicht alle Parameter, die in den Lösungsaufrufen übergeben werden (z. B. Analytics-Kontextvariablen, benutzerdefinierte Target-Parameter oder Kunden-IDs des Experience Cloud ID-Dienstes), im Bildschirm "Netzwerk"sichtbar.
 
-Um alle Informationen anzuzeigen, wählen Sie " **[!UICONTROL Alle]**"aus.
+Um alle Informationen anzuzeigen, wählen Sie **[!UICONTROL All]**.
 
 Sie können die Informationen auch nach Lösung filtern. Wählen Sie die Lösungen aus, die Sie anzeigen möchten. Sie können mehrere Lösungen gleichzeitig anzeigen. Die ausgewählten Lösungsfilter werden hervorgehoben.
 
