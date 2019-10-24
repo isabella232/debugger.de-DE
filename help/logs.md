@@ -22,4 +22,4 @@ Der Bildschirm "Protokolle"enthält spezifische Informationen zu DTM-Implementie
 
 ![](assets/logs.jpg)
 
-Einige DTM-Protokollelemente enthalten eine Option "Code anzeigen"in ihrer Meldung. Klicken Sie auf Code **[!UICONTROL anzeigen]** , um den bedingten Code anzuzeigen, der bestimmt, ob eine Regel ausgelöst werden soll.
+Einige DTM-Protokollelemente enthalten eine Option "Code anzeigen"in ihrer Meldung. Klicken Sie auf **[!UICONTROL Show Code]** , um den bedingten Code anzuzeigen, der bestimmt, ob eine Regel ausgelöst werden soll.
