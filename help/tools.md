@@ -17,7 +17,7 @@ Im Anzeigebereich "Tools"können Sie verschiedene Werkzeuge für die installiert
 
 ![](assets/tools.jpg)
 
-Sie können Launch oder DTM auf einer beliebigen Seite dynamisch einfügen, um etwas auf einer Seite zu testen, auf der nicht Launch oder DTM installiert ist. Klicken Sie auf das Symbol **[!UICONTROL Einbettungscode]** , geben Sie dann Ihren [Einbettungscode](https://experiencecloud.adobe.com/resources/help/en_US/dtm/deployment.html) ein und klicken Sie auf **[!UICONTROL Speichern]**.
+Sie können Launch oder DTM auf einer beliebigen Seite dynamisch einfügen, um etwas auf einer Seite zu testen, auf der nicht Launch oder DTM installiert ist. Klicken Sie auf das **[!UICONTROL Embed Code]** Symbol, geben Sie dann Ihren [Einbettungscode](https://experiencecloud.adobe.com/resources/help/en_US/dtm/deployment.html) ein und klicken Sie auf **[!UICONTROL Save]**.
 
 ![](assets/tools-embedcode.jpg)
 
