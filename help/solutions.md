@@ -41,7 +41,7 @@ In diesem Bildschirm werden alle Anforderungen angezeigt, seit der Debugger geö
 
 **Verknüpfte Konten (alt)**
 
-Klicken Sie auf Konto **[!UICONTROL verknüpfen]** und geben Sie dann die angeforderten Informationen ein, um ein Analytics-Konto mit dem Debugger zu verknüpfen.
+Klicken Sie auf **[!UICONTROL Link Account]** und geben Sie die angeforderten Informationen ein, um ein Analytics-Konto mit dem Debugger zu verknüpfen.
 
 >[!NOTE]
 >
@@ -61,11 +61,11 @@ Bei den meisten Analytics-Implementierungen sind die Informationen zu den Regeln
 
 Auf der Registerkarte "Ziel"können Sie [Target](https://docs.adobe.com/content/help/en/target/using/target-home.html) -Anforderungen oder [Mbox Trace](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html) -Antwortdetails anzeigen.
 
-Klicken Sie auf **[!UICONTROL Anforderungen]** und erweitern Sie dann die Umgebung, um Informationen zu Target anzuzeigen.
+Klicken Sie auf **[!UICONTROL Requests]** und erweitern Sie dann die Umgebung, um Informationen zu Target anzuzeigen.
 
 ![](assets/target-requests.jpg)
 
-Klicken Sie auf Alle Anforderungen **[!UICONTROL löschen]** , um die aktuell angezeigten Anforderungen zu entfernen. Es werden weitere Anforderungen angezeigt, während sie gestellt werden.
+Klicken Sie auf **[!UICONTROL Clear All Requests]** , um die aktuell angezeigten Anforderungen zu entfernen. Es werden weitere Anforderungen angezeigt, während sie gestellt werden.
 
 Sie können auch den Target-Filter verwenden, um MBox Trace für die Zieldebuggung zu [aktivieren](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html).
 
@@ -97,7 +97,7 @@ Auf der Registerkarte [Audience Manager](https://experiencecloud.adobe.com/resou
 
 ![](assets/audience-manager.jpg)
 
-Klicken Sie auf Alle Ereignisse **[!UICONTROL löschen]** , um die angezeigten Informationen zurückzusetzen. Neue Ereignisse werden beim Auftreten angezeigt.
+Klicken Sie auf **[!UICONTROL Clear All Events]** , um die angezeigten Informationen zurückzusetzen. Neue Ereignisse werden beim Auftreten angezeigt.
 
 **ID-Synchronisierung**
 
@@ -111,14 +111,14 @@ Weitere Informationen finden Sie unter [ID-Synchronisierung für eingehende Date
 
 Auf der Registerkarte "Advertising Cloud"können Sie Advertising Cloud-Anforderungen anzeigen.
 
-Klicken Sie auf **[!UICONTROL Anforderungen]** und erweitern Sie dann die Umgebung, um Informationen zur Advertising Cloud anzuzeigen.
+Klicken Sie auf **[!UICONTROL Requests]** und erweitern Sie dann die Umgebung, um Informationen zur Advertising Cloud anzuzeigen.
 
-Klicken Sie auf Alle Anforderungen **[!UICONTROL löschen]** , um die aktuell angezeigten Anforderungen zu entfernen. Es werden weitere Anforderungen angezeigt, während sie gestellt werden.
+Klicken Sie auf **[!UICONTROL Clear All Requests]** , um die aktuell angezeigten Anforderungen zu entfernen. Es werden weitere Anforderungen angezeigt, während sie gestellt werden.
 
 ## Experience Cloud ID-Dienst {#section-a96c32f8e63a4991abb296f6e8ea01cf}
 
 Auf der Registerkarte "Experience Cloud ID-Dienst"können Sie [Experience Cloud ID-Dienstanforderungen](https://experiencecloud.adobe.com/resources/help/en_US/mcvid/) anzeigen.
 
-Klicken Sie auf **[!UICONTROL Anforderungen]** und erweitern Sie dann die Umgebung, um Informationen zum Experience Cloud ID-Dienst anzuzeigen.
+Klicken Sie auf **[!UICONTROL Requests]** und erweitern Sie dann die Umgebung, um Informationen zum Experience Cloud ID-Dienst anzuzeigen.
 
-Klicken Sie auf Alle Anforderungen **[!UICONTROL löschen]** , um die aktuell angezeigten Anforderungen zu entfernen. Es werden weitere Anforderungen angezeigt, während sie gestellt werden.
+Klicken Sie auf **[!UICONTROL Clear All Requests]** , um die aktuell angezeigten Anforderungen zu entfernen. Es werden weitere Anforderungen angezeigt, während sie gestellt werden.
