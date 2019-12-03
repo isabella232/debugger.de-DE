@@ -1,11 +1,11 @@
 ---
 cloud: experience-cloud
 product: experience cloud
-sub-product: experience cloud debugger
+sub-product: experience cloud debugger 2.0
 audience: end-user
-user-guide-title: Experience Cloud Debugger Help
+user-guide-title: Experience Cloud Debugger 2.0 Help
 translation-type: tm+mt
-source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
+source-git-commit: 5fcaa00d09e5563b8bcb5d81606f40b847dd1e49
 
 ---
 
@@ -15,8 +15,9 @@ source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
 + [Erweiterung „Adobe Experience Cloud Debugger“](experience-cloud-debugger.md)
 + [Versionshinweise](release-notes.md)
 + [Installation des Experience Cloud Debugger](install-debugger.md)
-+ [Zusammenfassungsbildschirm](run-debugger.md)
-+ [Netzwerkinformationen](network.md)
-+ [Tools](tools.md)
++ [Zusammenfassungsbildschirm](summary.md)
++ [„Lösungen“](solutions.md)
 + [Protokolle](logs.md)
-+ [Lösungsregisterkarten](solutions.md)
++ [Netzwerkinformationen](network.md)
++ [Ereignisse](events.md)
++ [Auditor](auditor.md)
