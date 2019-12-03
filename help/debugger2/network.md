@@ -6,7 +6,7 @@ seo-title: Netzwerkinformationen
 title: Netzwerkinformationen
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 translation-type: tm+mt
-source-git-commit: b9147536b8312599dd3144cac31dea9f0f1c3625
+source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
 
 ---
 
@@ -19,7 +19,7 @@ Auf dem Bildschirm „Network“ werden Informationen zu allen Aufrufen zusammen
 
 ![](assets/network.jpg)
 
-Dieser Bildschirm ist nützlich, um zu bestätigen, dass die für Integrationen verwendeten Parameter, wie die Experience Cloud-Besucher-ID oder die zusätzliche Daten-ID, über Integrationen hinweg konsistent sind.
+Dieser Bildschirm ist nützlich, um Schlüsselwertpaare über Treffer hinweg zu vergleichen. Sie können bestätigen, dass die für Integrationen verwendeten Parameter wie die Experience Cloud-Besucher-ID oder die zusätzliche Daten-ID in allen Integrationen konsistent sind.
 
 >[!NOTE]
 >
