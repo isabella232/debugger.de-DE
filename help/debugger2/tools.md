@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: Werkzeuge
 title: Werkzeuge
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: b9147536b8312599dd3144cac31dea9f0f1c3625
 
 ---
@@ -17,7 +17,7 @@ Auf dem Bildschirm „Tools“ können Sie verschiedene Tools für die installie
 
 ![](assets/tools.jpg)
 
-Sie können Launch oder DTM dynamisch auf beliebigen Seiten einfügen, um Elemente auf Seiten zu testen, auf denen Launch oder DTM nicht installiert ist. Click the **[!UICONTROL Embed Code]** icon, then type your [embed code](https://experiencecloud.adobe.com/resources/help/en_US/dtm/deployment.html) and click **[!UICONTROL Save]**.
+Sie können Launch oder DTM dynamisch auf beliebigen Seiten einfügen, um Elemente auf Seiten zu testen, auf denen Launch oder DTM nicht installiert ist. Klicken Sie auf das Symbol **[!UICONTROL Embed Code]**, geben Sie Ihren [Einbettungscode](https://experiencecloud.adobe.com/resources/help/de_DE/dtm/deployment.html) ein und klicken Sie auf **[!UICONTROL Save]**.
 
 ![](assets/tools-embedcode.jpg)
 
