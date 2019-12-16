@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: Protokolle
 title: Protokolle
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: b4e96582174d2e36c4ad37f0f582b04d3bb199e1
 
 ---
@@ -17,21 +17,21 @@ Der Bildschirm „Logs“ bietet Informationen zu spezifischen DTM-Implementieru
 
 ![](assets/logs.jpg)
 
-Der Bildschirm "Protokolle"enthält Informationen in vier Spalten:
+Der Bildschirm „Protokolle“ zeigt Informationen in vier Spalten an:
 
-**[!UICONTROL Solutions]** : Zeigt Symbole für die Experience Cloud-Lösung an, die vom protokollierten Element betroffen sind. Bewegen Sie den Mauszeiger über das Symbol für eine Textbeschreibung.
+**[!UICONTROL Solutions]:** enthält Symbole für die Experience Cloud-Lösung, die vom protokollierten Element betroffen ist. Bewegen Sie den Mauszeiger über ein Symbol, um eine Textbeschreibung zu erhalten.
 
-**[!UICONTROL Occurred at]** : Zeigt an, wann das protokollierte Problem während der Sitzung aufgetreten ist.
+**[!UICONTROL Occurred at]:** gibt an, wann in der Sitzung das protokollierte Problem aufgetreten ist.
 
-**[!UICONTROL Log level]** : Zeigt den Schweregrad des Problems. Der Schweregrad ist einer der folgenden Schweregrade:
+**[!UICONTROL Log level]:** gibt den Schweregrad des Problems an. Der Schweregrad kann folgende Werte aufweisen:
 
 * Protokoll
 * Info
 * Warnungen
 * Fehler
 
-**[!UICONTROL Log message]** : Beschreibt das Problem.
+**[!UICONTROL Log message]:** beschreibt das Problem.
 
-Einige Protokollmeldungen enthalten eine Option "Code anzeigen". Klicken Sie auf **[!UICONTROL Show Code]**, um den Bedingungscode anzuzeigen, der bestimmt, ob eine Regel ausgelöst wird.
+Einige Protokollinformationen enthalten die Option „Show Code“. Klicken Sie auf **[!UICONTROL Show Code]**, um den Bedingungscode anzuzeigen, der bestimmt, ob eine Regel ausgelöst wird.
 
 Um das Protokoll zu löschen, klicken Sie auf **[!UICONTROL Remove Logs]**.
