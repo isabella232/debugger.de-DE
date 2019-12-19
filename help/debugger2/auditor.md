@@ -4,21 +4,21 @@ keywords: debugger;experience cloud debugger extension;chrome;extension;auditor;
 seo-description: 'null'
 seo-title: Auditor
 title: Auditor
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
 
 ---
 
 
-# Auditor{#auditor}
+# Auditor {#auditor}
 
-Sie können Adobe Experience Platform [Auditor](https://docs.adobe.com/content/help/en/auditor/using/overview.html) verwenden, um eine Reihe von Audits auf Ihrer Seite über den Auditor-Bildschirm auszuführen.
+Mit dem [Auditor](https://docs.adobe.com/content/help/en/auditor/using/overview.html) von Adobe Experience Platform können Sie auf der Auditor-Seite eine Reihe von Audits ausführen.
 
-1. Klicken Sie **[!UICONTROL Auditor]** in der linken Navigationsleiste.
+1. Klicken Sie in der linken Navigationsleiste auf **[!UICONTROL Auditor]**.
 1. Klicken Sie auf **[!UICONTROL Run Auditor Tests]**.
 
 Die Testergebnisse werden angezeigt.
 
 ![](assets/auditor-results.jpg)
 
-Die Ergebnisliste zeigt den Test und das Ergebnis sowie Vorschläge zur Lösung von Problemen an.
+In der Ergebnisliste werden der Test und das Ergebnis sowie Vorschläge zur Lösung von Problemen angezeigt.
