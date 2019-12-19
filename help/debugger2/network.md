@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: Netzwerkinformationen
 title: Netzwerkinformationen
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
 
 ---
@@ -19,19 +19,19 @@ Auf dem Bildschirm „Network“ werden Informationen zu allen Aufrufen zusammen
 
 ![](assets/network.jpg)
 
-Dieser Bildschirm ist nützlich, um Schlüsselwertpaare über Treffer hinweg zu vergleichen. Sie können bestätigen, dass die für Integrationen verwendeten Parameter wie die Experience Cloud-Besucher-ID oder die zusätzliche Daten-ID in allen Integrationen konsistent sind.
+Auf diesem Bildschirm können Schlüsselwertpaare von Treffern verglichen werden. Hier können Sie außerdem überprüfen, ob die für Integrationen verwendeten Parameter, wie z. B. die Experience Cloud-Besucher-ID oder die Ergänzende-Daten-ID, für alle Integrationen einheitlich sind.
 
 >[!NOTE]
 >
->Zum jetzigen Zeitpunkt werden nicht alle innerhalb der Lösungsaufrufe übergebenen Parameter (z. B. Analytics-Kontextvariablen, benutzerdefinierte Target-Parameter oder die Kunden-IDs des Experience Cloud ID-Dienstes) auf dem Netzwerkbildschirm angezeigt.
+>Aktuell werden nicht alle innerhalb der Lösungsaufrufe übergebenen Parameter auf dem Netzwerkbildschirm angezeigt (z. B. Analytics-Kontextvariablen, benutzerdefinierte Target-Parameter oder die Kunden-IDs des Experience Cloud ID-Dienstes).
 
-Um die Informationen nach Lösung zu filtern, wählen Sie die Lösung aus der Liste im linken Navigationsbereich aus. Das folgende Beispiel wird gefiltert, um nur Analytics anzuzeigen:
+Um die Informationen nach Lösungen zu filtern, wählen Sie die gewünschte Lösung aus der Liste im linken Navigationsbereich aus. Im folgenden Beispiel wird der Filter so gewählt, dass nur Analytics angezeigt wird:
 
 ![](assets/network-analytics.jpg)
 
-Klicken Sie auf **[!UICONTROL Network]**
+Wenn Sie wieder alle Lösungen anzeigen möchten, klicken Sie auf **[!UICONTROL Network]**
 
-Klicken Sie auf ein Element in der Netzwerkansicht, um eine erweiterte Ansicht anzuzeigen. In der erweiterten Ansicht können Sie die angezeigten Informationen in die Zwischenablage kopieren.
+Klicken Sie auf ein Element in der Netzwerkansicht, um es zu erweitern. In der erweiterten Ansicht können Sie die angezeigten Informationen in die Zwischenablage kopieren.
 
 ![](assets/network-expand.jpg)
 
@@ -41,4 +41,4 @@ Klicken Sie auf ein Element in der Netzwerkansicht, um eine erweiterte Ansicht a
 
 Um die Liste zu löschen, klicken Sie auf **[!UICONTROL Remove Events]**.
 
-Um eine Excel-Datei mit den Informationen in diesem Bildschirm herunterzuladen, klicken Sie auf **[!UICONTROL Download]**.
+Um eine Excel-Datei mit den auf diesem Bildschirm angezeigten Informationen herunterzuladen, klicken Sie auf **[!UICONTROL Download]**.
