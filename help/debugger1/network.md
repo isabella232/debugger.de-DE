@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: Netzwerkinformationen
 title: Netzwerkinformationen
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
 
 ---
