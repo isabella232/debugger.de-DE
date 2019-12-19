@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: Installation des Experience Cloud Debugger
 title: Installation des Experience Cloud Debugger
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
 
 ---
@@ -15,10 +15,10 @@ source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
 
 Laden Sie die Adobe Experience Cloud Debugger-Erweiterung herunter und installieren Sie sie.
 
-* **** Chrome: Von der Seite [Chrome-Erweiterung](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)
-* **** Firefox: Von der Seite der [Firefox-Add-ons](https://addons.mozilla.org/en-US/firefox/addon/adobe-experience-platform-dbg/)
+* **Chrome:** von der Seite für [Chrome-Erweiterungen](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)
+* **Firefox:** von der Seite für [Firefox-Add-ons](https://addons.mozilla.org/de/firefox/addon/adobe-experience-platform-dbg/)
 
-Nach der Installation der Erweiterung wird der Erweiterungsleiste ein Symbol hinzugefügt:
+Nach Installation der Erweiterung wird ein Symbol zu Ihrer Erweiterungsleiste hinzugefügt:
 
 ![](assets/start-icon.jpg)
 
@@ -26,10 +26,10 @@ Nach der Installation der Erweiterung wird der Erweiterungsleiste ein Symbol hin
 
 Klicken Sie auf das Symbol, um den Debugger zu starten.
 
-Nach dem Öffnen des Debuggers können Sie Ihr bevorzugtes Erscheinungsbild auswählen, indem Sie entweder den **Dark Mode** (Standard) oder den **Light Mode****** wählen.
+Nach dem Öffnen von Debugger können Sie das von Ihnen bevorzugte Erscheinungsbild auswählen, indem Sie **** aufrufen und entweder **Dunkler Modus** (Standard) oder **Heller Modus** auswählen.
 
-Wenn Sie Seiten auf Ihrer Site ändern, wird das Fenster Debugger aktualisiert und zeigt Informationen zu dieser Seite an. Der Name der Seite, mit der Sie verbunden sind, wird unten im Bildschirm angezeigt. Um den Debugger auf einer Seite zu sperren, klicken Sie rechts unten im Fenster Debugger auf **[!UICONTROL Lock]** .
+Wenn Sie Seiten Ihrer Site ändern, wird das Debugger-Fenster mit Informationen zu diesen Seiten aktualisiert. Der Name der Seite, mit der Sie gerade verbunden sind, wird unten im Bildschirm angezeigt. Um den Debugger auf einer Seite zu fixieren, klicken Sie rechts unten im Debugger-Fenster auf **[!UICONTROL Lock]**.
 
 ![](assets/lock.jpg)
 
-Dies ist nützlich, wenn Sie beim Debuggen Ihrer Seite die Dokumentation lesen oder Informationen auf einer anderen Seite anzeigen.
+Dies ist nützlich, wenn Sie während der Fehlerbehebung einer Seite die Dokumentation lesen oder sich Informationen auf einer anderen Seite anzeigen lassen.
