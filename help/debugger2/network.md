@@ -5,13 +5,17 @@ seo-description: 'null'
 seo-title: Netzwerkinformationen
 title: Netzwerkinformationen
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: ht
-source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
+translation-type: tm+mt
+source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 ---
 
 
-# Netzwerkinformationen {#network-information}
+# Netzwerk{#network}
+
+> [!IMPORTANT]
+>
+> Adobe Experience Cloud Debugger 2.0 befindet sich derzeit in der Betaphase. Dokumentation und Funktionalität können sich ändern.
 
 Um Netzwerkinformationen anzuzeigen, klicken Sie auf **[!UICONTROL Network]**.
 
@@ -25,7 +29,7 @@ Auf diesem Bildschirm können Schlüsselwertpaare von Treffern verglichen werden
 >
 >Aktuell werden nicht alle innerhalb der Lösungsaufrufe übergebenen Parameter auf dem Netzwerkbildschirm angezeigt (z. B. Analytics-Kontextvariablen, benutzerdefinierte Target-Parameter oder die Kunden-IDs des Experience Cloud ID-Dienstes).
 
-Um die Informationen nach Lösungen zu filtern, wählen Sie die gewünschte Lösung aus der Liste im linken Navigationsbereich aus. Im folgenden Beispiel wird der Filter so gewählt, dass nur Analytics angezeigt wird:
+Um die Informationen lösungsspezifisch zu ändern, wählen Sie in der Liste im linken Navigationsbereich die zu Ansicht Lösung aus. Im folgenden Beispiel wird der Filter so gewählt, dass nur Analytics angezeigt wird:
 
 ![](assets/network-analytics.jpg)
 
