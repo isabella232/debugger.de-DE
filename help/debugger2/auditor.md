@@ -2,15 +2,18 @@
 description: 'null'
 keywords: debugger;experience cloud debugger extension;chrome;extension;auditor;dtm;target
 seo-description: 'null'
-seo-title: Auditor
 title: Auditor
-translation-type: ht
-source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
+translation-type: tm+mt
+source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 ---
 
 
 # Auditor {#auditor}
+
+> [!IMPORTANT]
+>
+> Adobe Experience Cloud Debugger 2.0 befindet sich derzeit in der Betaphase. Dokumentation und Funktionalität können sich ändern.
 
 Mit dem [Auditor](https://docs.adobe.com/content/help/en/auditor/using/overview.html) von Adobe Experience Platform können Sie auf der Auditor-Seite eine Reihe von Audits ausführen.
 
