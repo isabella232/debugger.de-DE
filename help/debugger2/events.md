@@ -4,13 +4,17 @@ keywords: debugger;experience cloud debugger extension;chrome;extension;events;d
 seo-description: 'null'
 seo-title: Ereignisse
 title: Ereignisse
-translation-type: ht
-source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
+translation-type: tm+mt
+source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 ---
 
 
 # Ereignisse {#events}
+
+> [!IMPORTANT]
+>
+> Adobe Experience Cloud Debugger 2.0 befindet sich derzeit in der Betaphase. Dokumentation und Funktionalität können sich ändern.
 
 Auf dem Bildschirm „Ereignisse“ werden die Ereignisse auf einer Timeline grafisch dargestellt.
 
@@ -30,7 +34,9 @@ So aktivieren Sie das Verfolgen von Datenschichtänderungen auf der Timeline:
 
 1. Klicken Sie oben rechts auf das Zahnradsymbol.
 1. Geben Sie den Namen Ihrer Datenschicht ein.
+
    ![](assets/event-datalayer.jpg)
+
 1. Klicken Sie auf **[!UICONTROL Save]**.
 
 In den Details zu Datenschichtänderungen werden alle gelöschten oder hinzugefügten Elemente angezeigt. Wenn Sie auf **{}** klicken, werden Details von tieferen Datenschichten angezeigt.
