@@ -5,17 +5,17 @@ seo-description: 'null'
 seo-title: Protokolle
 title: Protokolle
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: ht
-source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
+translation-type: tm+mt
+source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
 
 
 # Protokolle {#logs}
 
-> [!IMPORTANT]
+>[!IMPORTANT]
 >
-> Adobe Experience Cloud Debugger 2.0 ist aktuell in der Betaversion verfügbar. Die Dokumentation und Funktionalität können sich ändern.
+>Adobe Experience Cloud Debugger 2.0 ist aktuell in der Betaversion verfügbar. Die Dokumentation und Funktionalität können sich ändern.
 
 Der Bildschirm „Protokolle“ enthält Informationen zur Implementierung von DTM, Launch und AEP Web SDK. Das Konsolen-Debugging-Tool für DTM muss nicht aktiviert werden, damit diese Informationen angezeigt werden. Sie können die implementierten Lösungen über ihre zugeordneten Tools filtern.
 
