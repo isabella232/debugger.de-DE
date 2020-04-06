@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: Werkzeuge
 title: Werkzeuge
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 ---
@@ -15,13 +15,13 @@ source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 > [!IMPORTANT]
 >
-> Adobe Experience Cloud Debugger 2.0 befindet sich derzeit in der Betaphase. Dokumentation und Funktionalität können sich ändern.
+> Adobe Experience Cloud Debugger 2.0 ist aktuell in der Betaversion verfügbar. Die Dokumentation und Funktionalität können sich ändern.
 
 Auf dem Bildschirm „Tools“ können Sie verschiedene Tools für die installierte Lösung (de-)aktivieren. Sie können beispielsweise Informationen aus dem Target-Konsolen-Debugging aktivieren oder die DTM-Staging-Bibliothek verwenden. Diese Tools sind nur verfügbar, wenn Target und DTM auf Ihrer Seite installiert sind.
 
 ![](assets/tools.jpg)
 
-Sie können Launch oder DTM dynamisch auf beliebigen Seiten einfügen, um Elemente auf Seiten zu testen, auf denen Launch oder DTM nicht installiert ist. Klicken Sie auf das Symbol **[!UICONTROL Embed Code]**, geben Sie Ihren [Einbettungscode](https://experiencecloud.adobe.com/resources/help/en_US/dtm/deployment.html) ein und klicken Sie auf **[!UICONTROL Save]**.
+Sie können Launch oder DTM dynamisch auf beliebigen Seiten einfügen, um Elemente auf Seiten zu testen, auf denen Launch oder DTM nicht installiert ist. Klicken Sie auf das Symbol **[!UICONTROL Embed Code]**, geben Sie Ihren [Einbettungscode](https://experiencecloud.adobe.com/resources/help/de_DE/dtm/deployment.html) ein und klicken Sie auf **[!UICONTROL Save]**.
 
 ![](assets/tools-embedcode.jpg)
 
@@ -85,4 +85,4 @@ Sie können Launch oder DTM dynamisch auf beliebigen Seiten einfügen, um Elemen
 
 Im folgenden Video wird die Verwendung der Debugger-Erweiterung mit Adobe Target erläutert.
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=ger)
