@@ -5,8 +5,8 @@ seo-description: 'null'
 seo-title: Versionshinweise
 title: Versionshinweise
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
-translation-type: ht
-source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
+translation-type: tm+mt
+source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
 
@@ -15,6 +15,6 @@ source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 ## Versionshinweise {#topic-a92c3eb799b74e7fa404af8af5efb215}
 
-> [!IMPORTANT]
+>[!IMPORTANT]
 >
-> Adobe Experience Cloud Debugger 2.0 ist aktuell in der Betaversion verfügbar. Die Dokumentation und Funktionalität können sich ändern.
+>Adobe Experience Cloud Debugger 2.0 ist aktuell in der Betaversion verfügbar. Die Dokumentation und Funktionalität können sich ändern.
