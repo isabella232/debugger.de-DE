@@ -5,17 +5,17 @@ seo-description: 'null'
 seo-title: Zusammenfassungsbildschirm
 title: Zusammenfassungsbildschirm
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: ht
-source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
+translation-type: tm+mt
+source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
 
 
 # Zusammenfassungsbildschirm {#summary-screen}
 
-> [!IMPORTANT]
+>[!IMPORTANT]
 >
-> Adobe Experience Cloud Debugger 2.0 ist aktuell in der Betaversion verfügbar. Die Dokumentation und Funktionalität können sich ändern.
+>Adobe Experience Cloud Debugger 2.0 ist aktuell in der Betaversion verfügbar. Die Dokumentation und Funktionalität können sich ändern.
 
 Um den Adobe Experience Platform Debugger auszuführen, klicken Sie auf das Symbol in Ihrer Browser-Leiste und öffnen Sie dann die Seite, die Sie im Browser untersuchen möchten.
 
