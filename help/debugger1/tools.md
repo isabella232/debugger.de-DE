@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: Werkzeuge
 title: Werkzeuge
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
 
 ---
@@ -17,7 +17,7 @@ Auf dem Bildschirm „Tools“ können Sie verschiedene Tools für die installie
 
 ![](assets/tools.jpg)
 
-Sie können Launch oder DTM dynamisch auf beliebigen Seiten einfügen, um Elemente auf Seiten zu testen, auf denen Launch oder DTM nicht installiert ist. Klicken Sie auf das Symbol **[!UICONTROL Embed Code]**, geben Sie Ihren [Einbettungscode](https://docs.adobe.com/content/help/en/dtm/using/client-side/deployment.html) ein und klicken Sie auf **[!UICONTROL Save]**.
+Sie können Launch oder DTM dynamisch auf beliebigen Seiten einfügen, um Elemente auf Seiten zu testen, auf denen Launch oder DTM nicht installiert ist. Klicken Sie auf das Symbol **[!UICONTROL Embed Code]**, geben Sie Ihren [Einbettungscode](https://docs.adobe.com/content/help/de-DE/dtm/using/client-side/deployment.html) ein und klicken Sie auf **[!UICONTROL Save]**.
 
 ![](assets/tools-embedcode.jpg)
 
@@ -81,4 +81,4 @@ Sie können Launch oder DTM dynamisch auf beliebigen Seiten einfügen, um Elemen
 
 Im folgenden Video wird die Verwendung der Debugger-Erweiterung mit Adobe Target erläutert.
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=ger)
