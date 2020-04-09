@@ -5,7 +5,7 @@ seo-description: Verwenden der Lösungsregisterkarten im Adobe Debugger
 seo-title: Lösungsregisterkarten im Adobe Debugger
 title: Lösungsregisterkarten
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
 
 ---
@@ -17,7 +17,7 @@ Klicken Sie auf die Lösungsregisterkarten, um die Ergebnisse für bestimmte Ado
 
 ## Analytics {#section-f71dfcc22bb44c86bec328491606a482}
 
-Die Analytics-Registerkarte enthält Informationen zu Ihrer [Analytics](https://docs.adobe.com/content/help/en/analytics/landing/home.html)-Implementierung.
+Die Analytics-Registerkarte enthält Informationen zu Ihrer [Analytics](https://docs.adobe.com/content/help/de-DE/analytics/landing/home.html)-Implementierung.
 
 **Hits**
 
@@ -33,7 +33,7 @@ Klicken Sie auf die Report Suite ID, um die Ansicht zu erweitern:
 
 ![](assets/analytics-hits-expand.jpg)
 
-Auf diesem Bildschirm werden alle Anfragen angezeigt, seit der Debugger zum letzten Mal geöffnet oder die Anfragen gelöscht wurden. Die Standardparameter werden automatisch benutzerfreundlichen Namen zugeordnet. [Props und eVars](https://docs.adobe.com/content/help/en/analytics/implementation/vars/page-vars/evar.html) können eigenen benutzerfreundlichen Namen zugeordnet werden (z. B. „Benutzertyp“ für „prop1“), wenn Sie sich über die Funktion „Link Analytics“ authentifizieren (siehe unten). Anfragen werden von links nach rechts sortiert.
+Auf diesem Bildschirm werden alle Anfragen angezeigt, seit der Debugger zum letzten Mal geöffnet oder die Anfragen gelöscht wurden. Die Standardparameter werden automatisch benutzerfreundlichen Namen zugeordnet. [Props und eVars](https://docs.adobe.com/content/help/de-DE/analytics/implementation/vars/page-vars/evar.html) können eigenen benutzerfreundlichen Namen zugeordnet werden (z. B. „Benutzertyp“ für „prop1“), wenn Sie sich über die Funktion „Link Analytics“ authentifizieren (siehe unten). Anfragen werden von links nach rechts sortiert.
 
 **Download:** Speichern Sie alle Anfragen an die Report Suite als Excel-Tabelle.
 
@@ -59,7 +59,7 @@ Bei den meisten Analytics-Implementierungen sind die Informationen nach Ausführ
 
 ## Target {#section-988873ba5ede4317953193bd7ac5474c}
 
-Verwenden Sie die Target-Registerkarte, um [Target](https://docs.adobe.com/content/help/en/target/using/target-home.html)-Anfragen oder [Mbox Trace](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html)-Antwortdetails anzuzeigen.
+Verwenden Sie die Target-Registerkarte, um [Target](https://docs.adobe.com/content/help/de-DE/target/using/target-home.html)-Anfragen oder [Mbox Trace](https://docs.adobe.com/content/help/de-DE/target/using/activities/troubleshoot-activities/content-trouble.html)-Antwortdetails anzuzeigen.
 
 Klicken Sie auf **[!UICONTROL Requests]** und erweitern Sie die Umgebung, um Informationen zu Target anzuzeigen.
 
@@ -67,33 +67,33 @@ Klicken Sie auf **[!UICONTROL Requests]** und erweitern Sie die Umgebung, um Inf
 
 Klicken Sie auf **[!UICONTROL Clear All Requests]**, um die aktuellen Anfragen zu entfernen. Neue Anfragen werden angezeigt, sobald sie auftreten.
 
-Sie können auch den Target-Filter verwenden, um [Mbox Trace für Target-Debugging zu aktivieren](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html).
+Sie können auch den Target-Filter verwenden, um [Mbox Trace für Target-Debugging zu aktivieren](https://docs.adobe.com/content/help/de-DE/target/using/activities/troubleshoot-activities/content-trouble.html).
 
 Sie müssen auf einem Chrome-Tab bei Experience Cloud angemeldet sein, um Mbox Trace zu aktivieren. Einmal aktiviert, wird Ihr Adobe ID-Benutzername angezeigt. Erweitern Sie Ihren Benutzernamen, um die Target-Kundencodes anzuzeigen, die den Ihnen verfügbaren Experience Cloud-Organisationen zugeordnet sind. Klicken Sie auf den Kundencode, für den Sie Mbox Trace aktivieren möchten, und überprüfen Sie, ob das grüne Häkchen angezeigt wird. Hierdurch werden alle Target-Anfragen mit Mbox Trace-Informationen angezeigt, gruppiert nach Kundencode. Um die Mbox Trace-Informationen abzurufen, erweitern Sie die Anfrage. Hierdurch werden folgende Registerkarten angezeigt:
 
-* [Activities](https://docs.adobe.com/content/help/en/target/using/activities/activities.html): Die Registerkarte „Activities“ zeigt alle Aktivitäten an, die dem Target-Anfragenamen zugeordnet sind, unabhängig davon, ob Sie sich für die Aktivität qualifizieren. „Matched Activities“ sind Aktivitäten, für die Sie sich qualifizieren und deren Angebote in der Antwort bereitgestellt wurden. Sie können den Aktivitätsnamen erweitern, um zu ermitteln, in welchem Erlebnis Sie sich befinden und durch welche Zielgruppen und Targeting-Bedingungen Sie sich für die Aktivität qualifiziert haben. „Evaluated Activities“ sind alle bewerteten Aktivitäten, unabhängig davon, ob Sie sich qualifiziert haben. Um herauszufinden, warum Sie sich nicht für eine Aktivität qualifiziert haben, die bewertet wurde, aber keine Übereinstimmung ergeben hat, erweitern Sie den Aktivitätsnamen und überprüfen Sie den Abschnitt „Unmatched Audiences“.
+* [Activities](https://docs.adobe.com/content/help/de-DE/target/using/activities/activities.html) Die Registerkarte „Activities“ zeigt alle Aktivitäten an, die dem Target-Anfragenamen zugeordnet sind, unabhängig davon, ob Sie sich für die Aktivität qualifizieren. „Matched Activities“ sind Aktivitäten, für die Sie sich qualifizieren und deren Angebote in der Antwort bereitgestellt wurden. Sie können den Aktivitätsnamen erweitern, um zu ermitteln, in welchem Erlebnis Sie sich befinden und durch welche Zielgruppen und Targeting-Bedingungen Sie sich für die Aktivität qualifiziert haben. „Evaluated Activities“ sind alle bewerteten Aktivitäten, unabhängig davon, ob Sie sich qualifiziert haben. Um herauszufinden, warum Sie sich nicht für eine Aktivität qualifiziert haben, die bewertet wurde, aber keine Übereinstimmung ergeben hat, erweitern Sie den Aktivitätsnamen und überprüfen Sie den Abschnitt „Unmatched Audiences“.
 
 * Anfrage
 
-   Die Anfragenregisterkarte von [Mbox Trace](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html) ähnelt der Haupt-Anfragenregisterkarte. Sie können alle von der Target-Anfrage übergebenen Parameter anzeigen, zusätzlich zu den Anfrageheadern.
+   Die Anfragenregisterkarte von [Mbox Trace](https://docs.adobe.com/content/help/de-DE/target/using/activities/troubleshoot-activities/content-trouble.html) ähnelt der Haupt-Anfragenregisterkarte. Sie können alle von der Target-Anfrage übergebenen Parameter anzeigen, zusätzlich zu den Anfrageheadern.
 * Profil
 
-   Erweitern Sie den Abschnitt „Profile Snapshot“, um die [Profilinformationen](https://docs.adobe.com/content/help/en/target/using/audiences/visitor-profiles/variables-profiles-parameters-methods.html) anzuzeigen, die zu Ihnen als Besucher in der Target-Profildatenbank gespeichert sind. Alle All In-Mbox- und Skriptprofile werden hier angezeigt – neben einigen Systemprofilen. Die Statusspalte zeigt an, welche Profile im Rahmen dieser Anfrage geändert wurden, und enthält die jeweiligen Werte vor und nach Eingang der Anfrage im Profilsystem.
+   Erweitern Sie den Abschnitt „Profile Snapshot“, um die [Profilinformationen](https://docs.adobe.com/content/help/de-DE/target/using/audiences/visitor-profiles/variables-profiles-parameters-methods.html) anzuzeigen, die zu Ihnen als Besucher in der Target-Profildatenbank gespeichert sind. Alle All In-Mbox- und Skriptprofile werden hier angezeigt – neben einigen Systemprofilen. Die Statusspalte zeigt an, welche Profile im Rahmen dieser Anfrage geändert wurden, und enthält die jeweiligen Werte vor und nach Eingang der Anfrage im Profilsystem.
 * Audience Manager
 
-   Die Abschnitte „segmentIds“ und „cachedSegmentIds“ zeigen die IDs der [Zielgruppen](https://docs.adobe.com/content/help/en/target/using/audiences/target.html) an, die von der Experience Cloud für Target freigegeben werden und für die Sie sich qualifiziert haben. Hierbei kann es sich um Zielgruppen handeln, die in Audience Manager, Analytics oder dem Audience Builder im Core Service „Personen“ erstellt wurden. Diese IDs sind in der Audience Manager-Benutzeroberfläche verfügbar, um den Zielgruppennamen zu ermitteln.
+   Die Abschnitte „segmentIds“ und „cachedSegmentIds“ zeigen die IDs der [Zielgruppen](https://docs.adobe.com/content/help/de-DE/target/using/audiences/target.html) an, die von der Experience Cloud für Target freigegeben werden und für die Sie sich qualifiziert haben. Hierbei kann es sich um Zielgruppen handeln, die in Audience Manager, Analytics oder dem Audience Builder im Core Service „Personen“ erstellt wurden. Diese IDs sind in der Audience Manager-Benutzeroberfläche verfügbar, um den Zielgruppennamen zu ermitteln.
 
 Im folgenden Video werden die allgemeinen Target-Funktionen vorgestellt:
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=ger)
 
 Im folgenden Video wird Mbox Trace vorgestellt:
 
->[!VIDEO](https://video.tv.adobe.com/v/23113t2/)
+>[!VIDEO](https://video.tv.adobe.com/v/23113t2/?captions=ger)
 
 ## Audience Manager {#section-1d4484f8b46f457f859ba88039a9a585}
 
-Über die Registerkarte [Audience Manager](https://docs.adobe.com/content/help/en/audience-manager/user-guide/aam-home.html) können Sie Details von [Ereignissen](https://docs.adobe.com/content/help/en/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-event-calls/dcs-event-calls.html) anzeigen. Klicken Sie auf eine Organisation, um sie zu erweitern und detaillierte Informationen anzuzeigen.
+Über die Registerkarte [Audience Manager](https://docs.adobe.com/content/help/de-DE/audience-manager/user-guide/aam-home.html) können Sie Details von [Ereignissen](https://docs.adobe.com/content/help/de-DE/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-event-calls/dcs-event-calls.html) anzeigen. Klicken Sie auf eine Organisation, um sie zu erweitern und detaillierte Informationen anzuzeigen.
 
 ![](assets/audience-manager.jpg)
 
@@ -105,7 +105,7 @@ Die ID-Synchronisierung ist der erste Schritt bei der Verarbeitung eingehender a
 
 ![](assets/aam-idsync.jpg)
 
-Weitere Informationen hierzu finden Sie unter [ID-Synchronisierung für eingehende Datenübertragungen](https://docs.adobe.com/content/help/en/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/id-sync-http.html) in der Audience Manager-Produktdokumentation.
+Weitere Informationen hierzu finden Sie unter [ID-Synchronisierung für eingehende Datenübertragungen](https://docs.adobe.com/content/help/de-DE/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/id-sync-http.html) in der Audience Manager-Produktdokumentation.
 
 ## Advertising Cloud {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
@@ -117,7 +117,7 @@ Klicken Sie auf **[!UICONTROL Clear All Requests]**, um die aktuellen Anfragen z
 
 ## Experience Cloud ID-Dienst {#section-a96c32f8e63a4991abb296f6e8ea01cf}
 
-Über die Registerkarte „Experience Cloud ID Service“ können Sie [Experience Cloud ID-Dienst](https://docs.adobe.com/content/help/en/id-service/using/home.html)-Anfragen anzeigen.
+Über die Registerkarte „Experience Cloud ID Service“ können Sie [Experience Cloud ID-Dienst](https://docs.adobe.com/content/help/de-DE/id-service/using/home.html)-Anfragen anzeigen.
 
 Klicken Sie auf **[!UICONTROL Requests]** und erweitern Sie die Umgebung, um Informationen zum Experience Cloud ID-Dienst anzuzeigen.
 
