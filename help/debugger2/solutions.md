@@ -5,7 +5,7 @@ seo-description: Verwenden der Lösungsregisterkarten im Adobe Debugger
 seo-title: Lösungsregisterkarten im Adobe Debugger
 title: Lösungsregisterkarten
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
