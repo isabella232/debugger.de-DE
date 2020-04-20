@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: Netzwerkinformationen
 title: Netzwerkinformationen
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
@@ -33,7 +33,7 @@ Um die entsprechenden Informationen einer Lösung anzuzeigen, wählen Sie die ge
 
 ![](assets/network-analytics.jpg)
 
-Wenn Sie wieder alle Lösungen anzeigen möchten, klicken Sie auf **[!UICONTROL Network]**
+Wenn Sie wieder alle Lösungen anzeigen möchten, klicken Sie auf **[!UICONTROL Network]**.
 
 Klicken Sie auf ein Element in der Netzwerkansicht, um es zu erweitern. In der erweiterten Ansicht können Sie die angezeigten Informationen in die Zwischenablage kopieren.
 
