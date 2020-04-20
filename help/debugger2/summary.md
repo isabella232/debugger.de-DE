@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: Zusammenfassungsbildschirm
 title: Zusammenfassungsbildschirm
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
@@ -49,7 +49,7 @@ Der Debugger zeigt die folgenden Informationen zu den verschiedenen Lösungen an
   </tr> 
   <tr> 
    <td colname="col1"> <p>Webseitenname </p> </td> 
-   <td colname="col2"> <p>Die Variable <a href="https://experiencecloud.adobe.com/resources/help/de_DE/sc/implement/pageName.html" format="html" scope="external">pageName</a>, die an Analytics gesendet wird und einen benutzerfreundlichen Namen der Seite enthält </p> </td> 
+   <td colname="col2"> <p>Die Variable <a href="https://docs.adobe.com/content/help/de-DE/analytics/implementation/vars/page-vars/page-variables.html " format="html" scope="external">pageName</a>, die an Analytics gesendet wird und einen benutzerfreundlichen Namen der Seite enthält. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Module </p> </td> 
