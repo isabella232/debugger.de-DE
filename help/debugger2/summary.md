@@ -49,7 +49,7 @@ Der Debugger zeigt die folgenden Informationen zu den verschiedenen Lösungen an
   </tr> 
   <tr> 
    <td colname="col1"> <p>Webseitenname </p> </td> 
-   <td colname="col2"> <p>Die Variable <a href="https://docs.adobe.com/content/help/de-DE/analytics/implementation/vars/page-vars/page-variables.html " format="html" scope="external">pageName</a>, die an Analytics gesendet wird und einen benutzerfreundlichen Namen der Seite enthält. </p> </td> 
+   <td colname="col2"> <p>Die Variable <a href="https://docs.adobe.com/content/help/de-DE/analytics/implementation/vars/page-vars/page-variables.html" format="html" scope="external">pageName</a>, die an Analytics gesendet wird und einen benutzerfreundlichen Namen der Seite enthält. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Module </p> </td> 
