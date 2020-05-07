@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: Versionshinweise
 title: Versionshinweise
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: de5a56677aade8d3cec0e3d6bf82d4f66d259bb1
 
 ---
@@ -219,7 +219,7 @@ Version 0.0.803 enthält keine kundengerichteten Änderungen.
   </tr> 
   <tr> 
    <td colname="col1"> <p>Aktualisierter Hilfelink in der Fußzeile </p> </td> 
-   <td colname="col2"> <p>Link zur Hilfe in Fußzeile aktualisieren zu <a href="https://docs.adobe.com/content/help/de-DE/debugger/using/experience-cloud-debugger.html" format="https" scope="external"> https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html</a> </p> </td> 
+   <td colname="col2"> <p>Hilfelink in der Fußzeile wurde auf <a href="https://docs.adobe.com/content/help/de-DE/debugger/using/experience-cloud-debugger.html" format="https" scope="external">https://docs.adobe.com/content/help/de-DE/debugger/using/experience-cloud-debugger.html</a> aktualisiert </p> </td> 
   </tr> 
  </tbody> 
 </table>
