@@ -5,8 +5,11 @@ seo-description: Technische Dokumentation für die Chrome- und Firefox-Erweiteru
 seo-title: Chrome- und Firefox-Erweiterung „Adobe Experience Platform Debugger“
 title: Adobe Experience Platform Debugger-Erweiterung
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
-translation-type: ht
-source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+translation-type: tm+mt
+source-git-commit: 3a5b0b6d2d7dc18113c5909b878c882cf803bba6
+workflow-type: tm+mt
+source-wordcount: '307'
+ht-degree: 100%
 
 ---
 
@@ -30,9 +33,13 @@ Die oben aufgeführten Schritte müssen nicht zwingend in dieser Reihenfolge aus
 
 Sie können den Debugger zwar auf jeder Webseite ausführen, jedoch sind nicht öffentliche Daten nur dann in der Erweiterung verfügbar, wenn Sie in einem der geöffneten Chrome-Tabs bei der Experience Cloud angemeldet sind.
 
-## Nutzungsszenarien {#section-9fcd0583ed184943a8f0c2d3c00658e0}
+## Anwendungsbeispiele {#section-9fcd0583ed184943a8f0c2d3c00658e0}
 
 Verwenden Sie den Debugger, um Informationen zur Implementierung Ihrer Experience Cloud-Lösungen zu sammeln. Beispiel:
 
 * **Launch:** Ermitteln Sie, welche Property, welche Umgebung und welcher Build auf einer Seite bereitgestellt werden.
 * **Target:** Finden Sie heraus, für welche Aktivitäten Sie sich (nicht) qualifizieren und warum.
+
+## Videotutorial
+
+[!VIDEO](https://video.tv.adobe.com/v/32156?quality=12&learn=on)
