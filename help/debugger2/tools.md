@@ -5,8 +5,11 @@ seo-description: 'null'
 seo-title: Werkzeuge
 title: Werkzeuge
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: ht
-source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+translation-type: tm+mt
+source-git-commit: 5a84797bda8c29f1e691de418c9837c76a63c17f
+workflow-type: tm+mt
+source-wordcount: '396'
+ht-degree: 95%
 
 ---
 
@@ -70,7 +73,7 @@ Sie können Launch oder DTM dynamisch auf beliebigen Seiten einfügen, um Elemen
   </tr> 
   <tr> 
    <td colname="col1"> <p> Aktivieren von Mbox Trace </p> </td> 
-   <td colname="col2"> <p>Dieses Tool fügt ausführliche Informationen zu Target-Antworten hinzu, die daraufhin auf dem Debugger-Bildschirm <span class="uicontrol">Target &gt; Mbox Trace</span> angezeigt werden können. </p> <p> Sie müssen in einem der Chrome-Tabs bei Experience Cloud angemeldet sein, um dieses Tool zu aktivieren. </p> </td> 
+   <td colname="col2"> <p>Dieses Tool fügt ausführliche Informationen zu Target-Antworten hinzu, die daraufhin auf dem Debugger-Bildschirm <span class="uicontrol">Target &gt; Mbox Trace</span> angezeigt werden können. </p> <p> Sie müssen auf einer Ihrer Chrome-Registerkarten beim Experience Cloud angemeldet sein, um dieses Tool zu aktivieren. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Target deaktivieren </p> </td> 
@@ -85,4 +88,4 @@ Sie können Launch oder DTM dynamisch auf beliebigen Seiten einfügen, um Elemen
 
 Im folgenden Video wird die Verwendung der Debugger-Erweiterung mit Adobe Target erläutert.
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
