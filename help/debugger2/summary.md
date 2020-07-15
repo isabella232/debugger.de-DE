@@ -5,9 +5,9 @@ seo-description: 'null'
 seo-title: Zusammenfassungsbildschirm
 title: Zusammenfassungsbildschirm
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f35d87473f9e1e26f9a27272d7930472cc01c188
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '940'
 ht-degree: 100%
 
@@ -44,11 +44,11 @@ Der Debugger zeigt die folgenden Informationen zu den verschiedenen Lösungen an
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
-   <td colname="col2"> <p>Die für die Seite definierte <a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/appmeasure_mjs.html" format="html" scope="external">AppMeasurement</a>-Version. </p> </td> 
+   <td colname="col2"> <p>Die für die Seite definierte <a href="https://docs.adobe.com/content/help/de-DE/analytics/implementation/js/migrate-from-hcode.html" format="html" scope="external">AppMeasurement</a>-Version. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Besucherversion </p> </td> 
-   <td colname="col2"> <p>Die Version der <a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/visid_analytics.html" format="html" scope="external">Besucher-ID</a>-Bibliothek. </p> </td> 
+   <td colname="col2"> <p>Die Version der <a href="https://docs.adobe.com/content/help/de-DE/analytics/components/metrics/unique-visitors.translate.html" format="html" scope="external">Besucher-ID</a>-Bibliothek. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Webseitenname </p> </td> 
@@ -148,7 +148,7 @@ Der Debugger zeigt die folgenden Informationen zu den verschiedenen Lösungen an
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
-   <td colname="col2"> <p>Die Version der <a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/visid_analytics.html" format="html" scope="external">Besucher-ID</a>-Bibliothek. </p> </td> 
+   <td colname="col2"> <p>Die Version der <a href="https://docs.adobe.com/content/help/de-DE/analytics/components/metrics/unique-visitors.translate.html" format="html" scope="external">Besucher-ID</a>-Bibliothek. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -194,7 +194,7 @@ Der Debugger zeigt die folgenden Informationen zu den verschiedenen Lösungen an
    <td colname="col2"> <p>Die ID des Target-Erlebnisses. Ist nur dann ohne Authentifizierung verfügbar, wenn Sie den Debugging-Ereignis-Listener in Ihren Code oder Tag-Manager implementieren und die erforderlichen <a href="https://docs.adobe.com/content/help/de-DE/target/using/administer/response-tokens.html" format="html" scope="external">Antwort-Tokens</a> in der Target-Benutzeroberfläche aktivieren. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Angebot  Name</p> </td> 
+   <td colname="col1"> <p>Angebot   Name</p> </td> 
    <td colname="col2"> <p>Name des Target-<a href="https://docs.adobe.com/content/help/de-DE/target/using/experiences/offers/manage-content.html" format="html" scope="external">Angebots</a>. Ist nur dann ohne Authentifizierung verfügbar, wenn Sie den Debugging-Ereignis-Listener in Ihren Code oder Tag-Manager implementieren und die erforderlichen <a href="https://docs.adobe.com/content/help/de-DE/target/using/administer/response-tokens.html" format="html" scope="external">Antwort-Tokens</a> in der Target-Benutzeroberfläche aktivieren. </p> </td> 
   </tr> 
   <tr> 
