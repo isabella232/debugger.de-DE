@@ -5,11 +5,11 @@ seo-description: 'null'
 seo-title: Werkzeuge
 title: Werkzeuge
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 5a84797bda8c29f1e691de418c9837c76a63c17f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '396'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -73,14 +73,14 @@ Sie können Launch oder DTM dynamisch auf beliebigen Seiten einfügen, um Elemen
   </tr> 
   <tr> 
    <td colname="col1"> <p> Aktivieren von Mbox Trace </p> </td> 
-   <td colname="col2"> <p>Dieses Tool fügt ausführliche Informationen zu Target-Antworten hinzu, die daraufhin auf dem Debugger-Bildschirm <span class="uicontrol">Target &gt; Mbox Trace</span> angezeigt werden können. </p> <p> Sie müssen auf einer Ihrer Chrome-Registerkarten beim Experience Cloud angemeldet sein, um dieses Tool zu aktivieren. </p> </td> 
+   <td colname="col2"> <p>Dieses Tool fügt ausführliche Informationen zu Target-Antworten hinzu, die daraufhin auf dem Debugger-Bildschirm <span class="uicontrol">Target &gt; Mbox Trace</span> angezeigt werden können. </p> <p> Sie müssen in einem der Chrome-Tabs bei Experience Cloud angemeldet sein, um dieses Tool zu aktivieren. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Target deaktivieren </p> </td> 
    <td colname="col2"> <p>Dieses Tool deaktiviert alle Target-Anfragen, indem Ihrem Browser ein Cookie namens <span class="codeph"> mboxDisable=true</span> hinzugefügt wird. </p> <p> Dieses Tool erfordert at.js-Version 0.9.6 oder höher. Wenn Sie eine ältere Version verwenden, können Sie Ihrer URL den Parameter <span class="codeph">?mboxDisable=true</span> hinzufügen, um Mboxes zu deaktivieren. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p> Mbox Highlight </p> </td> 
+   <td colname="col1"> <p> Mbox-Highlight </p> </td> 
    <td colname="col2"> <p> Dieses Tool zeichnet eine rote Markierung um veraltete Zeilenumbruch-Mboxes. </p> </td> 
   </tr> 
  </tbody> 
@@ -88,4 +88,4 @@ Sie können Launch oder DTM dynamisch auf beliebigen Seiten einfügen, um Elemen
 
 Im folgenden Video wird die Verwendung der Debugger-Erweiterung mit Adobe Target erläutert.
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=ger)
