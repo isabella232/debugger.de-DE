@@ -5,9 +5,9 @@ seo-description: Technische Dokumentation für die Chrome- und Firefox-Erweiteru
 seo-title: Chrome- und Firefox-Erweiterung „Adobe Experience Platform Debugger“
 title: Adobe Experience Platform Debugger-Erweiterung
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 64506a22964d68bfec84404b870c8432b0ff374c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '307'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ Verwenden Sie Adobe Experience Platform Debugger mit den anderen Adobe-Aktivieru
 
 1. Verwenden Sie [Launch](https://docs.adobe.com/content/help/de-DE/launch/using/overview.html) oder [DTM](https://docs.adobe.com/content/help/de-DE/dtm/using/dtm-home.html), um Code einzufügen, der [Adobe Experience Cloud](https://docs.adobe.com/content/help/de-DE/core-services/interface/experience-cloud.html)-Lösungen auf Ihren Seiten aktiviert.
 
-1. Testen Sie Ihre Implementierungen mithilfe von [Adobe Cloud Platform Auditor](https://experiencecloud.adobe.com/resources/help/en_US/auditor/).
+1. Testen Sie Ihre Implementierungen mithilfe von [Adobe Cloud Platform Auditor](https://docs.adobe.com/content/help/de-DE/auditor/using/overview.html).
 1. Mit Adobe Experience Platform Debugger können Sie von Auditor gefundene Probleme beheben oder andere Informationen über Ihre Implementierungen überprüfen.
 
 Die oben aufgeführten Schritte müssen nicht zwingend in dieser Reihenfolge ausgeführt werden.
@@ -40,6 +40,6 @@ Verwenden Sie den Debugger, um Informationen zur Implementierung Ihrer Experienc
 * **Launch:** Ermitteln Sie, welche Property, welche Umgebung und welcher Build auf einer Seite bereitgestellt werden.
 * **Target:** Finden Sie heraus, für welche Aktivitäten Sie sich (nicht) qualifizieren und warum.
 
-## Videotutorial
+## Video-Tutorial
 
->[!VIDEO](https://video.tv.adobe.com/v/32156?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32156?quality=12&learn=on&captions=ger)
