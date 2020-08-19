@@ -1,12 +1,15 @@
 ---
-description: 'null'
+description: Experience Cloud Debugger-Tools
 keywords: debugger;experience cloud debugger extension;chrome;extension;tools;dtm;target
-seo-description: 'null'
+seo-description: Experience Cloud Debugger-Tools
 seo-title: Werkzeuge
 title: Werkzeuge
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: ht
-source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
+translation-type: tm+mt
+source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+workflow-type: tm+mt
+source-wordcount: '388'
+ht-degree: 97%
 
 ---
 
@@ -73,7 +76,7 @@ Sie können Launch oder DTM dynamisch auf beliebigen Seiten einfügen, um Elemen
    <td colname="col2"> <p>Dieses Tool deaktiviert alle Target-Anfragen, indem Ihrem Browser ein Cookie namens <span class="codeph"> mboxDisable=true</span> hinzugefügt wird. </p> <p> Dieses Tool erfordert at.js-Version 0.9.6 oder höher. Wenn Sie eine ältere Version verwenden, können Sie Ihrer URL den Parameter <span class="codeph">?mboxDisable=true</span> hinzufügen, um Mboxes zu deaktivieren. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p> Mbox Highlight </p> </td> 
+   <td colname="col1"> <p> Mbox-Highlight </p> </td> 
    <td colname="col2"> <p> Dieses Tool zeichnet eine rote Markierung um veraltete Zeilenumbruch-Mboxes. </p> </td> 
   </tr> 
  </tbody> 
@@ -81,4 +84,4 @@ Sie können Launch oder DTM dynamisch auf beliebigen Seiten einfügen, um Elemen
 
 Im folgenden Video wird die Verwendung der Debugger-Erweiterung mit Adobe Target erläutert.
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
