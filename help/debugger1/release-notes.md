@@ -5,11 +5,11 @@ seo-description: Versionshinweise für Experience Cloud Debugger
 seo-title: Versionshinweise
 title: Versionshinweise
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '699'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -207,8 +207,8 @@ Version 0.0.803 enthält keine kundengerichteten Änderungen.
    <td colname="col2"> <p>Die Vorwärts-/Rückwärts-Wischfunktion von Trackpads wurde deaktiviert. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Indikator für Rohserveraufruf </p> </td> 
-   <td colname="col2"> <p>Es wurde ein Indikator hinzugefügt, der angibt, dass die Rohzeichenfolge des Serveraufrufs kopiert wurde. </p> </td> 
+   <td colname="col1"> <p>Indikator für Roh-Server-Aufruf </p> </td> 
+   <td colname="col2"> <p>Es wurde ein Indikator hinzugefügt, der angibt, dass die Rohzeichenfolge des Server-Aufrufs kopiert wurde. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Verbesserte Registerkarte „Logs“ </p> </td> 
