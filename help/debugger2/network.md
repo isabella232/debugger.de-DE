@@ -1,15 +1,15 @@
 ---
-description: Bildschirm "Experience Cloud Debugger-Netzwerk"
+description: Bildschirm für Experience Cloud Debugger-Netzwerk
 keywords: debugger;experience cloud debugger extension;chrome;extension;network;information
-seo-description: Bildschirm "Experience Cloud Debugger-Netzwerk"
+seo-description: Bildschirm für Experience Cloud Debugger-Netzwerk
 seo-title: Netzwerkinformationen
 title: Netzwerkinformationen
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '228'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
