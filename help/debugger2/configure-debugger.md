@@ -4,11 +4,11 @@ keywords: debugger;experience cloud debugger extension;chrome;extension;configur
 seo-description: Konfigurieren von Experience Cloud Debugger
 seo-title: Konfiguration von Adobe Experience Cloud Debugger
 title: Konfiguration von Adobe Experience Cloud Debugger
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '167'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ Sie können bestimmte Elemente der Funktionsweise von Debugger konfigurieren.
 
 ## Heller oder dunkler Modus
 
-Nach dem Öffnen von Debugger können Sie das von Ihnen bevorzugte Erscheinungsbild auswählen, indem Sie **** aufrufen und entweder ** Dunkler Modus ** (Standard) oder ** Heller Modus ** auswählen.
+Nach dem Öffnen von Debugger können Sie das von Ihnen bevorzugte Erscheinungsbild auswählen, indem Sie **** aufrufen und entweder **Dunkler Modus** (Standard) oder **Heller Modus** auswählen.
 
 ## Zurücksetzen
 
