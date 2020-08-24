@@ -1,15 +1,15 @@
 ---
-description: Experience Cloud Debugger wird ausgeführt
+description: Ausführen von Adobe Experience Cloud Debugger
 keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
-seo-description: Experience Cloud Debugger wird ausgeführt
+seo-description: Ausführen von Adobe Experience Cloud Debugger
 seo-title: Zusammenfassungsbildschirm
 title: Zusammenfassungsbildschirm
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1035'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ Hierdurch wird der Bildschirm „Summary“ des Adobe Experience Cloud Debugger 
 
 Dieser Bildschirm enthält eine Miniaturansicht der Seite sowie ihre URL und ihren Titel. Darüber hinaus werden hier Informationen zu den verschiedenen Adobe Experience Cloud-Lösungen angezeigt. Die angezeigten Informationen unterscheiden sich je nach Lösung. In der Regel sind jedoch Details wie Lösungsbibliothek und -version (z. B. „AppMeasurement v2.9“) sowie Konto-IDs (wie z. B. die Analytics Report Suite ID, der Target-Kundencode, die Audience Manager-Partner-ID usw.) enthalten.
 
-Die blauen Zahlen neben den Registerkarten oben im Fenster geben die Anzahl der durchgeführten Serveraufrufe an. Sie können diese Anzahl zurücksetzen, indem Sie auf der entsprechenden Registerkarte auf **[!UICONTROL Clear All Requests]** klicken.
+Die blauen Zahlen neben den Registerkarten oben im Fenster geben die Anzahl der durchgeführten Server-Aufrufe an. Sie können diese Anzahl zurücksetzen, indem Sie auf der entsprechenden Registerkarte auf **[!UICONTROL Clear All Requests]** klicken.
 
 In der folgenden Abbildung werden beispielsweise Informationen zu Adobe Target angezeigt. Um die unten abgebildeten Aktivitätsdetails ohne Authentifizierung abzurufen, müssen Sie den Debugging-Ereignis-Listener in Ihren Code oder Tag-Manager implementieren und die erforderlichen [Antwort-Tokens](https://docs.adobe.com/content/help/de-DE/target/using/administer/response-tokens.html) in der Target-Benutzeroberfläche aktivieren.
 
@@ -53,7 +53,7 @@ Der Debugger zeigt die folgenden Informationen zu den verschiedenen Lösungen an
    <td colname="col2"> <p>URL der Seite </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Title </p> </td> 
+   <td colname="col1"> <p>Titel </p> </td> 
    <td colname="col2"> <p>Der im Tag <span class="codeph">&lt;TITLE&gt;</span> angegebene Name </p> </td> 
   </tr> 
  </tbody> 
@@ -73,7 +73,7 @@ Der Debugger zeigt die folgenden Informationen zu den verschiedenen Lösungen an
   </tr> 
   <tr> 
    <td colname="col1"> <p>Besucherversion </p> </td> 
-   <td colname="col2"> <p>Die Version der <a href="https://docs.adobe.com/content/help/de-DE/analytics/technotes/visitor-identification.html" format="html" scope="external">Besucher-ID</a>-Bibliothek. </p> </td> 
+   <td colname="col2"> <p>Die Version der <a href="https://docs.adobe.com/content/help/de-DE/analytics/components/metrics/unique-visitors.html" format="html" scope="external">Besucher-ID</a>-Bibliothek. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Webseitenname </p> </td> 
@@ -123,11 +123,11 @@ Der Debugger zeigt die folgenden Informationen zu den verschiedenen Lösungen an
   </tr> 
   <tr> 
    <td colname="col1"> <p>Umgebung </p> </td> 
-   <td colname="col2"> <p>Die von der Launch-Bibliothek verwendete <a href="https://docs.adobe.com/content/help/de-DE/launch/using/reference/publish/environments.html" format="https" scope="external">Umgebung</a> </p> </td> 
+   <td colname="col2"> <p>Die von der Launch-Bibliothek verwendete <a href="https://docs.adobe.com/content/help/de-DE/launch/using/reference/publish/environments.html" format="https" scope="external">Umgebung</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Skriptverzeichnis </p> </td> 
-   <td colname="col2"> <p>Das Verzeichnis, in dem das Launch-Skript gespeichert wurde </p> </td> 
+   <td colname="col2"> <p>Das Verzeichnis, in dem das Launch-Skript gespeichert wurde. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -138,11 +138,11 @@ Der Debugger zeigt die folgenden Informationen zu den verschiedenen Lösungen an
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Bibliotheksname </p> </td> 
-   <td colname="col2"> <p>Der Name der Adobe DTM-<a href="https://docs.adobe.com/content/help/de-DE/dtm/using/library-management.html" format="html" scope="external">Bibliothek</a> </p> </td> 
+   <td colname="col2"> <p>Der Name der Adobe DTM-<a href="https://docs.adobe.com/content/help/de-DE/dtm/using/library-management.html" format="html" scope="external">Bibliothek</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
-   <td colname="col2"> <p>Die Turbine-Version </p> </td> 
+   <td colname="col2"> <p>Die Turbine-Version. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Build-Datum </p> </td> 
@@ -150,11 +150,11 @@ Der Debugger zeigt die folgenden Informationen zu den verschiedenen Lösungen an
   </tr> 
   <tr> 
    <td colname="col1"> <p>Umgebung </p> </td> 
-   <td colname="col2"> <p>Die von der DTM-Bibliothek verwendete Umgebung </p> </td> 
+   <td colname="col2"> <p>Die von der DTM-Bibliothek verwendete Umgebung. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Skriptverzeichnis </p> </td> 
-   <td colname="col2"> <p>Das Verzeichnis, in dem das DTM-Skript gespeichert wurde </p> </td> 
+   <td colname="col2"> <p>Das Verzeichnis, in dem das DTM-Skript gespeichert wurde. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -169,7 +169,7 @@ Der Debugger zeigt die folgenden Informationen zu den verschiedenen Lösungen an
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
-   <td colname="col2"> <p>Die Version der <a href="https://docs.adobe.com/content/help/de-DE/analytics/technotes/visitor-identification.html" format="html" scope="external">Besucher-ID</a>-Bibliothek. </p> </td> 
+   <td colname="col2"> <p>Die Version der <a href="https://docs.adobe.com/content/help/de-DE/analytics/components/metrics/unique-visitors.html" format="html" scope="external">Besucher-ID</a>-Bibliothek. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -184,11 +184,11 @@ Der Debugger zeigt die folgenden Informationen zu den verschiedenen Lösungen an
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
-   <td colname="col2"> <p>Ihre aktuelle <a href="https://docs.adobe.com/content/help/de-DE/target/using/implement-target/client-side/target-atjs-versions.html" format="html" scope="external"> at.js</a>- oder mbox.js-Version </p> </td> 
+   <td colname="col2"> <p>Ihre aktuelle <a href="https://docs.adobe.com/content/help/de-DE/target/using/implement-target/client-side/target-atjs-versions.html" format="html" scope="external"> at.js</a>- oder mbox.js-Version. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Globaler Mbox-Name </p> </td> 
-   <td colname="col2"> <p>Die<a href="https://docs.adobe.com/help/de-DE/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external"> globale Mbox</a> bezieht sich auf den einzelnen Serveraufruf, der oben auf jeder Webseite in Ihrer Target-Implementierung durchgeführt wird. </p> </td> 
+   <td colname="col2"> <p>Die<a href="https://docs.adobe.com/help/de-DE/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external"> globale Mbox</a> bezieht sich auf den einzelnen Server-Aufruf, der oben auf jeder Webseite in Ihrer Target-Implementierung durchgeführt wird. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Mbox-Name </p> </td> 
