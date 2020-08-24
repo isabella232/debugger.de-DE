@@ -1,15 +1,15 @@
 ---
-description: Experience Cloud Debugger-Übersichtsbildschirm
+description: Experience Cloud Debugger-Zusammenfassungsbildschirm
 keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
-seo-description: Experience Cloud Debugger-Übersichtsbildschirm
+seo-description: Experience Cloud Debugger-Zusammenfassungsbildschirm
 seo-title: Zusammenfassungsbildschirm
 title: Zusammenfassungsbildschirm
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '948'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -48,7 +48,7 @@ Der Debugger zeigt die folgenden Informationen zu den verschiedenen Lösungen an
   </tr> 
   <tr> 
    <td colname="col1"> <p>Besucherversion </p> </td> 
-   <td colname="col2"> <p>Die Version der <a href="https://docs.adobe.com/content/help/de-DE/analytics/components/metrics/unique-visitors.translate.html" format="html" scope="external">Besucher-ID</a>-Bibliothek. </p> </td> 
+   <td colname="col2"> <p>Die Version der <a href="https://docs.adobe.com/content/help/de-DE/analytics/components/metrics/unique-visitors.html" format="html" scope="external">Besucher-ID</a>-Bibliothek. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Webseitenname </p> </td> 
@@ -90,7 +90,7 @@ Der Debugger zeigt die folgenden Informationen zu den verschiedenen Lösungen an
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
-   <td colname="col2"> <p>Die Turbine-Version</a> </p> </td> 
+   <td colname="col2"> <p>Die Turbine-Version.</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Build-Datum </p> </td> 
@@ -148,7 +148,7 @@ Der Debugger zeigt die folgenden Informationen zu den verschiedenen Lösungen an
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
-   <td colname="col2"> <p>Die Version der <a href="https://docs.adobe.com/content/help/de-DE/analytics/components/metrics/unique-visitors.translate.html" format="html" scope="external">Besucher-ID</a>-Bibliothek. </p> </td> 
+   <td colname="col2"> <p>Die Version der <a href="https://docs.adobe.com/content/help/de-DE/analytics/components/metrics/unique-visitors.html" format="html" scope="external">Besucher-ID</a>-Bibliothek. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -167,7 +167,7 @@ Der Debugger zeigt die folgenden Informationen zu den verschiedenen Lösungen an
   </tr> 
   <tr> 
    <td colname="col1"> <p>Globaler Anforderungsname </p> </td> 
-   <td colname="col2"> <p>Die<a href="https://docs.adobe.com/content/help/de-DE/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external"> globale Mbox</a> bezieht sich auf den einzelnen Server-Aufruf, der oben auf jeder Webseite in Ihrer Target-Implementierung durchgeführt wird. </p> </td> 
+   <td colname="col2"> <p>Die<a href="https://docs.adobe.com/help/de-DE/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external"> globale Mbox</a> bezieht sich auf den einzelnen Server-Aufruf, der oben auf jeder Webseite in Ihrer Target-Implementierung durchgeführt wird. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Ereignis zum Laden der Seite </p> </td> 
@@ -194,7 +194,7 @@ Der Debugger zeigt die folgenden Informationen zu den verschiedenen Lösungen an
    <td colname="col2"> <p>Die ID des Target-Erlebnisses. Ist nur dann ohne Authentifizierung verfügbar, wenn Sie den Debugging-Ereignis-Listener in Ihren Code oder Tag-Manager implementieren und die erforderlichen <a href="https://docs.adobe.com/content/help/de-DE/target/using/administer/response-tokens.html" format="html" scope="external">Antwort-Tokens</a> in der Target-Benutzeroberfläche aktivieren. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Angebot   Name</p> </td> 
+   <td colname="col1"> <p>Angebot    Name</p> </td> 
    <td colname="col2"> <p>Name des Target-<a href="https://docs.adobe.com/content/help/de-DE/target/using/experiences/offers/manage-content.html" format="html" scope="external">Angebots</a>. Ist nur dann ohne Authentifizierung verfügbar, wenn Sie den Debugging-Ereignis-Listener in Ihren Code oder Tag-Manager implementieren und die erforderlichen <a href="https://docs.adobe.com/content/help/de-DE/target/using/administer/response-tokens.html" format="html" scope="external">Antwort-Tokens</a> in der Target-Benutzeroberfläche aktivieren. </p> </td> 
   </tr> 
   <tr> 
