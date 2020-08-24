@@ -1,14 +1,14 @@
 ---
-description: Bildschirm "Experience Cloud Debugger Ereignisses"
+description: Bildschirm für Experience Cloud Debugger-Ereignisse
 keywords: debugger;experience cloud debugger extension;chrome;extension;events;dtm;target
-seo-description: Bildschirm "Experience Cloud Debugger Ereignisses"
+seo-description: Bildschirm für Experience Cloud Debugger-Ereignisse
 seo-title: Ereignisse
 title: Ereignisse
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '172'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
