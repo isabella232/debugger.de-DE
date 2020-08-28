@@ -4,11 +4,11 @@ keywords: debugger;experience cloud debugger extension;chrome;extension;configur
 seo-description: Konfigurieren von Experience Cloud Debugger
 seo-title: Konfiguration von Adobe Experience Cloud Debugger
 title: Konfiguration von Adobe Experience Cloud Debugger
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 7d6f4446560e9d0fb353f60139cea26e61e19f99
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '161'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ Nach dem Öffnen von Debugger können Sie das von Ihnen bevorzugte Erscheinungsb
 
 ## Zurücksetzen
 
-Click **[!UICONTROL Reset all Data and Settings]** to return to clear all data and return to the default settings.
+Klicken Sie auf **[!UICONTROL Reset all Data and Settings]**, um alle Daten zu löschen und zu den Standardeinstellungen zurückzukehren.
 
 ## Debugger auf einer Seite sperren
 
