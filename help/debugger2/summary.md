@@ -1,15 +1,15 @@
 ---
-description: Experience Cloud Debugger-Zusammenfassungsbildschirm
-keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
-seo-description: Experience Cloud Debugger-Zusammenfassungsbildschirm
+description: Zusammenfassungsbildschirm für Experience Platform-Debugger
+keywords: debugger;experience Platform Debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
+seo-description: Zusammenfassungsbildschirm für Experience Platform-Debugger
 seo-title: Zusammenfassungsbildschirm
 title: Zusammenfassungsbildschirm
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: ht
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: ht
-source-wordcount: '948'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '949'
+ht-degree: 96%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0 ist aktuell in der Betaversion verfügbar. Die Dokumentation und Funktionalität können sich ändern.
+>Adobe Experience Platform Debugger befindet sich derzeit in der Betaphase. Die Dokumentation und Funktionalität können sich ändern.
 
 Um den Adobe Experience Platform Debugger auszuführen, klicken Sie auf das Symbol in Ihrer Browser-Leiste und öffnen Sie dann die Seite, die Sie im Browser untersuchen möchten.
 
@@ -30,9 +30,9 @@ Hierdurch wird der Bildschirm „Summary“ des Adobe Experience Platform Debugg
 
 Auf diesem Bildschirm werden Informationen zu den verschiedenen Adobe Experience Cloud-Lösungen angezeigt. Die angezeigten Informationen unterscheiden sich je nach Lösung. In der Regel sind jedoch Details wie Lösungsbibliothek und -version (z. B. „AppMeasurement v2.9“) sowie Konto-IDs (wie z. B. die Analytics Report Suite ID, der Target-Kundencode, die Audience Manager-Partner-ID usw.) enthalten.
 
-## Im Debugger angezeigte Informationen
+## Informationen im Experience Platform Debugger
 
-Der Debugger zeigt die folgenden Informationen zu den verschiedenen Lösungen an:
+Experience Platform Debugger zeigt die folgenden Informationen für jede Lösung an:
 
 **Adobe Analytics**
 
