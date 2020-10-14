@@ -1,14 +1,14 @@
 ---
-description: Bildschirm für Experience Cloud Debugger-Ereignisse
-keywords: debugger;experience cloud debugger extension;chrome;extension;events;dtm;target
-seo-description: Bildschirm für Experience Cloud Debugger-Ereignisse
+description: Bildschirm "Experience Platform Debugger-Ereignis"
+keywords: debugger;experience platform debugger extension;chrome;extension;events;dtm;target
+seo-description: Bildschirm "Experience Platform Debugger-Ereignis"
 seo-title: Ereignisse
 title: Ereignisse
-translation-type: ht
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: ht
-source-wordcount: '172'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '169'
+ht-degree: 81%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0 ist aktuell in der Betaversion verfügbar. Die Dokumentation und Funktionalität können sich ändern.
+>Adobe Experience Platform Debugger befindet sich derzeit in der Betaphase. Die Dokumentation und Funktionalität können sich ändern.
 
 Auf dem Bildschirm „Ereignisse“ werden die Ereignisse auf einer Timeline grafisch dargestellt.
 
 ![](assets/events.jpg)
 
-Für jedes Ereignis wird auf der Timeline ein Symbol der entsprechenden Experience Cloud-Lösung angezeigt. Mit den Symbolen werden auch Änderungen an der Datenschicht gekennzeichnet (sofern aktiviert). Wenn Sie den Mauszeiger über ein Symbol bewegen, erhalten Sie eine Zusammenfassung des jeweiligen Ereignisses. Durch Anklicken des Ereignisses erhalten Sie weitere Details. Wenn Sie mehrere Ereignisse anzeigen möchten, klicken Sie bei gedrückter Umschalt- oder Strg-Taste auf die Ereignisse.
+Für jedes Ereignis wird auf der Zeitschiene ein Symbol für die jeweilige Projektmappe angezeigt. Mit den Symbolen werden auch Änderungen an der Datenschicht gekennzeichnet (sofern aktiviert). Wenn Sie den Mauszeiger über ein Symbol bewegen, erhalten Sie eine Zusammenfassung des jeweiligen Ereignisses. Durch Anklicken des Ereignisses erhalten Sie weitere Details. Wenn Sie mehrere Ereignisse anzeigen möchten, klicken Sie bei gedrückter Umschalt- oder Strg-Taste auf die Ereignisse.
 
 ![](assets/events-details.jpg)
 
