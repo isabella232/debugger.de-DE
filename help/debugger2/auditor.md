@@ -1,13 +1,13 @@
 ---
 description: Über Experience Platform Auditor
-keywords: debugger;experience cloud debugger extension;chrome;extension;auditor;dtm;target
+keywords: debugger;experience platform debugger extension;chrome;extension;auditor;dtm;target
 seo-description: Über Experience Platform Auditor
 title: Auditor
-translation-type: ht
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: ht
-source-wordcount: '82'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '81'
+ht-degree: 90%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0 ist aktuell in der Betaversion verfügbar. Die Dokumentation und Funktionalität können sich ändern.
+>Adobe Experience Platform Debugger befindet sich derzeit in der Betaphase. Die Dokumentation und Funktionalität können sich ändern.
 
 Mit dem [Auditor](https://docs.adobe.com/content/help/de-DE/auditor/using/overview.html) von Adobe Experience Platform können Sie auf der Auditor-Seite eine Reihe von Audits ausführen.
 
