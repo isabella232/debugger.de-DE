@@ -1,12 +1,15 @@
 ---
-description: Verwenden der Lösungsregisterkarten im Adobe Debugger
-keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;solutions;solution;information;analytics;target;audience manager;media optimizer;amo;id service
-seo-description: Verwenden der Lösungsregisterkarten im Adobe Debugger
-seo-title: Lösungsregisterkarten im Adobe Debugger
+description: Verwenden der Lösungsregisterkarten im Adobe Experience Platform Debugger
+keywords: debugger;experience Platform Debugger extension;chrome;extension;summary;clear;requests;solutions;solution;information;analytics;target;audience manager;media optimizer;amo;id service
+seo-description: 'Verwenden der Lösungsregisterkarten im Adobe Experience Platform Debugger '
+seo-title: 'Lösungsregisterkarten im Adobe Experience Platform Debugger '
 title: Lösungsregisterkarten
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: ht
-source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '269'
+ht-degree: 82%
 
 ---
 
@@ -15,7 +18,7 @@ source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0 ist aktuell in der Betaversion verfügbar. Die Dokumentation und Funktionalität können sich ändern.
+>Adobe Experience Platform Debugger befindet sich derzeit in der Betaphase. Die Dokumentation und Funktionalität können sich ändern.
 
 Klicken Sie auf eine Adobe Experience Cloud-Lösung, um deren Ergebnisse anzuzeigen.
 
@@ -39,7 +42,7 @@ Verwenden Sie den Target-Bildschirm, um [Target](https://docs.adobe.com/content/
 
 ## Launch {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
-Im Launch-Bereich finden Sie Launch-Anfragen. Sie können auch auf **[!UICONTROL Configuration]** klicken, um [Einbettungscodes](https://docs.adobe.com/content/help/de-DE/launch/using/reference/upgrade/link-dtm-embed-code.html) zu konfigurieren. Im Debugger können weitere Einbettungscodes bearbeitet, ersetzt oder hinzugefügt werden. Wenn Sie sich anmelden, können Sie über die Dropdown-Liste eine andere Property auswählen.
+Im Launch-Bereich finden Sie Launch-Anfragen. Sie können auch auf **[!UICONTROL Configuration]** klicken, um [Einbettungscodes](https://docs.adobe.com/content/help/de-DE/launch/using/reference/upgrade/link-dtm-embed-code.html) zu konfigurieren. Sie können im Experience Platform Debugger weitere Einbettungscodes bearbeiten, ersetzen oder hinzufügen. Wenn Sie sich anmelden, können Sie über die Dropdown-Liste eine andere Property auswählen.
 
 ## Dynamic Tag Management {#dynamic-tag-management}
 
