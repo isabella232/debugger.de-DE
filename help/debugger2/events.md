@@ -1,14 +1,14 @@
 ---
-description: Bildschirm "Experience Platform Debugger-Ereignis"
+description: Bildschirm für Experience Platform Debugger-Ereignisse
 keywords: debugger;experience platform debugger extension;chrome;extension;events;dtm;target
-seo-description: Bildschirm "Experience Platform Debugger-Ereignis"
+seo-description: Bildschirm für Experience Platform Debugger-Ereignisse
 seo-title: Ereignisse
 title: Ereignisse
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '169'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 81%
 
 >[!IMPORTANT]
 >
->Adobe Experience Platform Debugger befindet sich derzeit in der Betaphase. Die Dokumentation und Funktionalität können sich ändern.
+>Adobe Experience Platform Debugger ist aktuell in der Betaversion verfügbar. Die Dokumentation und Funktionalität können sich ändern.
 
 Auf dem Bildschirm „Ereignisse“ werden die Ereignisse auf einer Timeline grafisch dargestellt.
 
 ![](assets/events.jpg)
 
-Für jedes Ereignis wird auf der Zeitschiene ein Symbol für die jeweilige Projektmappe angezeigt. Mit den Symbolen werden auch Änderungen an der Datenschicht gekennzeichnet (sofern aktiviert). Wenn Sie den Mauszeiger über ein Symbol bewegen, erhalten Sie eine Zusammenfassung des jeweiligen Ereignisses. Durch Anklicken des Ereignisses erhalten Sie weitere Details. Wenn Sie mehrere Ereignisse anzeigen möchten, klicken Sie bei gedrückter Umschalt- oder Strg-Taste auf die Ereignisse.
+Für jedes Ereignis wird auf der Timeline ein Symbol der entsprechenden Lösung angezeigt. Mit den Symbolen werden auch Änderungen an der Datenschicht gekennzeichnet (sofern aktiviert). Wenn Sie den Mauszeiger über ein Symbol bewegen, erhalten Sie eine Zusammenfassung des jeweiligen Ereignisses. Durch Anklicken des Ereignisses erhalten Sie weitere Details. Wenn Sie mehrere Ereignisse anzeigen möchten, klicken Sie bei gedrückter Umschalt- oder Strg-Taste auf die Ereignisse.
 
 ![](assets/events-details.jpg)
 
