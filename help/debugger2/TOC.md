@@ -3,25 +3,25 @@ cloud: experience-platform
 product: experience platform
 sub-product: 'Experience Platform Debugger '
 audience: end-user
-user-guide-title: Experience Platform Debugger-Hilfe
-user-guide-description: Untersuchen Sie Ihre Websites auf Probleme durch die Implementierung Ihrer Experience Platform.
-breadcrumb-title: Plattform-Debugger-Handbuch
+user-guide-title: Hilfe zu Experience Platform Debugger
+user-guide-description: Untersuchen Sie Ihre Webseiten auf Probleme durch die Implementierung Ihrer Experience Platform.
+breadcrumb-title: Plattform Debugger-Handbuch
 index: true
 translation-type: tm+mt
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
 workflow-type: tm+mt
 source-wordcount: '47'
-ht-degree: 53%
+ht-degree: 100%
 
 ---
 
 
-# Experience Platform Debugger Help {#using-v2}
+# Hilfe zu Experience Platform Debugger {#using-v2}
 
 + [Adobe Experience Platform Debugger-Erweiterung](experience-cloud-debugger.md)
 + [Versionshinweise](release-notes.md)
-+ [Experience Platform Debugger installieren](install-debugger.md)
-+ [Experience Platform Debugger konfigurieren](configure-debugger.md)
++ [Installation von Experience Platform Debugger](install-debugger.md)
++ [Konfiguration von Experience Platform Debugger](configure-debugger.md)
 + [Zusammenfassungsbildschirm](summary.md)
 + [Lösungen](solutions.md)
 + [Protokolle](logs.md)
