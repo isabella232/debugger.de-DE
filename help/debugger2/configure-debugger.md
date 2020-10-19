@@ -1,14 +1,14 @@
 ---
-description: Konfigurieren des Experience Platform Debuggers
+description: Konfigurieren von Experience Platform Debugger
 keywords: debugger;experience platform debugger extension;chrome;extension;configure
-seo-description: Konfigurieren des Experience Platform Debuggers
-seo-title: Experience Platform Debugger konfigurieren
-title: Experience Platform Debugger konfigurieren
-translation-type: tm+mt
+seo-description: Konfigurieren von Experience Platform Debugger
+seo-title: Konfiguration von Experience Platform Debugger
+title: Konfiguration von Experience Platform Debugger
+translation-type: ht
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '172'
-ht-degree: 35%
+ht-degree: 100%
 
 ---
 
@@ -17,23 +17,23 @@ ht-degree: 35%
 
 >[!IMPORTANT]
 >
->Adobe Experience Platform Debugger befindet sich derzeit in der Betaphase. Dokumentation und Funktionalität können sich ändern.
+>Adobe Experience Platform Debugger ist aktuell in der Betaversion verfügbar. Die Dokumentation und Funktionalität können sich ändern.
 
-Sie können bestimmte Einstellungen für das Aussehen und die Funktionsweise von Experience Platform Debugger konfigurieren.
+Sie können bestimmte Elemente der Funktionsweise von Experience Platform Debugger konfigurieren.
 
 ![](assets/settings.jpg)
 
 ## Heller oder dunkler Modus
 
-After Experience Platform Debugger opens, you can select your preferred appearance by going to **[!UICONTROL Settings]** and selecting either **Dark Mode** (default) or **Light Mode**.
+Nach dem Öffnen von Experience Platform Debugger können Sie das von Ihnen bevorzugte Erscheinungsbild auswählen, indem Sie **[!UICONTROL Settings]** aufrufen und entweder **Dunkler Modus** (Standard) oder **Heller Modus** auswählen.
 
 ## Zurücksetzen
 
 Klicken Sie auf **[!UICONTROL Reset all Data and Settings]**, um alle Daten zu löschen und zu den Standardeinstellungen zurückzukehren.
 
-## Experience Platform-Debugger auf einer Seite sperren
+## Experience Platform Debugger auf einer Seite fixieren
 
-Wenn Sie die Seiten auf Ihrer Site ändern, wird das Fenster &quot;Experience Platform-Debugger&quot;aktualisiert, um Informationen zu dieser Seite anzuzeigen. Der Name der Seite, mit der Sie gerade verbunden sind, wird unten im Bildschirm angezeigt. To keep Experience Platform Debugger locked on one page, click **[!UICONTROL Lock]** in the bottom right corner of the Experience Platform Debugger window.
+Wenn Sie Seiten Ihrer Site ändern, wird das Experience Platform Debugger-Fenster mit Informationen zu diesen Seiten aktualisiert. Der Name der Seite, mit der Sie gerade verbunden sind, wird unten im Bildschirm angezeigt. Um Experience Platform Debugger auf einer Seite zu fixieren, klicken Sie rechts unten im Experience Platform Debugger-Fenster auf **[!UICONTROL Lock]**.
 
 ![](assets/lock.jpg)
 
