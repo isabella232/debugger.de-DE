@@ -5,11 +5,11 @@ seo-description: Installieren von Experience Platform Debugger
 seo-title: Installation von Experience Platform Debugger
 title: Installation von Experience Platform Debugger
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
-translation-type: ht
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: ht
-source-wordcount: '99'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+workflow-type: tm+mt
+source-wordcount: '98'
+ht-degree: 92%
 
 ---
 
