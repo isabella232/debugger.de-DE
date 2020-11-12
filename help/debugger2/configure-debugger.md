@@ -4,10 +4,10 @@ keywords: debugger;experience platform debugger extension;chrome;extension;confi
 seo-description: Konfigurieren von Experience Platform Debugger
 seo-title: Konfiguration von Experience Platform Debugger
 title: Konfiguration von Experience Platform Debugger
-translation-type: ht
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: ht
-source-wordcount: '172'
+translation-type: tm+mt
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+workflow-type: tm+mt
+source-wordcount: '170'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,7 @@ Sie können bestimmte Elemente der Funktionsweise von Experience Platform Debugg
 
 ## Heller oder dunkler Modus
 
-Nach dem Öffnen von Experience Platform Debugger können Sie das von Ihnen bevorzugte Erscheinungsbild auswählen, indem Sie **[!UICONTROL Settings]** aufrufen und entweder **Dunkler Modus** (Standard) oder **Heller Modus** auswählen.
+Nach dem Öffnen von Platform Debugger können Sie das von Ihnen bevorzugte Erscheinungsbild auswählen, indem Sie **[!UICONTROL Settings]** aufrufen und entweder **Dunkler Modus** (Standard) oder **Heller Modus** auswählen.
 
 ## Zurücksetzen
 
@@ -33,7 +33,7 @@ Klicken Sie auf **[!UICONTROL Reset all Data and Settings]**, um alle Daten zu l
 
 ## Experience Platform Debugger auf einer Seite fixieren
 
-Wenn Sie Seiten Ihrer Site ändern, wird das Experience Platform Debugger-Fenster mit Informationen zu diesen Seiten aktualisiert. Der Name der Seite, mit der Sie gerade verbunden sind, wird unten im Bildschirm angezeigt. Um Experience Platform Debugger auf einer Seite zu fixieren, klicken Sie rechts unten im Experience Platform Debugger-Fenster auf **[!UICONTROL Lock]**.
+Wenn Sie Seiten Ihrer Site ändern, wird das Experience Platform Debugger-Fenster mit Informationen zu diesen Seiten aktualisiert. Der Name der Seite, mit der Sie gerade verbunden sind, wird unten im Bildschirm angezeigt. Um Platform Debugger auf einer Seite zu fixieren, klicken Sie rechts unten im Experience Platform Debugger-Fenster auf **[!UICONTROL Lock]**.
 
 ![](assets/lock.jpg)
 
