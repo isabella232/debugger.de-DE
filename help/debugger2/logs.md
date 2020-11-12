@@ -5,11 +5,11 @@ seo-description: Bildschirm für Experience Platform Debugger-Protokolle
 seo-title: Protokolle
 title: Protokolle
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: ht
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: ht
-source-wordcount: '152'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+workflow-type: tm+mt
+source-wordcount: '157'
+ht-degree: 87%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 >
 >Adobe Experience Platform Debugger ist aktuell in der Betaversion verfügbar. Die Dokumentation und Funktionalität können sich ändern.
 
-Der Bildschirm „Protokolle“ enthält Informationen zur Implementierung von DTM, Launch und AEP Web SDK. Das Konsolen-Debugging-Tool für DTM muss nicht aktiviert werden, damit diese Informationen angezeigt werden. Sie können die implementierten Lösungen über ihre zugeordneten Tools filtern.
+Der Bildschirm &quot;Protokolle&quot;enthält spezifische Informationen zu DTM-, Adobe Experience Platform Launch- und Adobe Experience Platform Web SDK-Implementierungen. Das Konsolen-Debugging-Tool für DTM muss nicht aktiviert werden, damit diese Informationen angezeigt werden. Sie können die implementierten Lösungen über ihre zugeordneten Tools filtern.
 
 ![](assets/logs.jpg)
 
