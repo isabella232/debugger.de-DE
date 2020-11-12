@@ -5,8 +5,11 @@ seo-description: Technische Dokumentation für die Chrome-Erweiterung „Adobe E
 seo-title: Chrome-Erweiterung „Adobe Experience Cloud Debugger“
 title: Erweiterung „Adobe Experience Cloud Debugger“
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
-translation-type: ht
-source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
+translation-type: tm+mt
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+workflow-type: tm+mt
+source-wordcount: '283'
+ht-degree: 85%
 
 ---
 
@@ -17,9 +20,9 @@ Die [Chrome-Erweiterung „Adobe Experience Cloud Debugger“](https://chrome.go
 
 Verwenden Sie die Debugger-Erweiterung von Experience Cloud mit den anderen Adobe Activation-Lösungen für Workflows wie den folgenden:
 
-1. Verwenden Sie [Launch](https://docs.adobe.com/content/help/de-DE/launch/using/overview.html) oder [DTM](https://docs.adobe.com/content/help/de-DE/dtm/using/dtm-home.html), um Code einzufügen, der [Adobe Experience Cloud](https://docs.adobe.com/content/help/de-DE/experience-cloud/user-guides/home.html)-Lösungen auf Ihren Seiten aktiviert.
+1. Use [Adobe Experience Platform Launch](https://docs.adobe.com/content/help/de-DE/launch/using/overview.html) or [DTM](https://docs.adobe.com/content/help/de-DE/dtm/using/dtm-home.html) to insert code that activates [Adobe Experience Cloud](https://docs.adobe.com/content/help/de-DE/experience-cloud/user-guides/home.html) solutions on your pages.
 
-1. Testen Sie Ihre Implementierungen mithilfe von [Adobe Cloud Platform Auditor](https://docs.adobe.com/content/help/de-DE/auditor/using/overview.html).
+1. Use [Adobe Experience Platform Auditor](https://docs.adobe.com/content/help/de-DE/auditor/using/overview.html) to test your implementations.
 1. Mit der Erweiterung „Adobe Experience Cloud Debugger“ können Sie von Auditor gefundene Probleme beheben oder andere Informationen über Ihre Implementierungen überprüfen.
 
 Die oben aufgeführten Schritte müssen nicht zwingend in dieser Reihenfolge ausgeführt werden.
@@ -30,5 +33,5 @@ Sie können den Debugger zwar auf jeder Webseite ausführen, jedoch sind nicht �
 
 Verwenden Sie den Debugger, um Informationen zur Implementierung Ihrer Experience Cloud-Lösungen zu sammeln. Beispiel:
 
-* **Experience Platform Launch:** Ermitteln Sie, welche Ressource, Umgebung und welcher Build auf einer Seite bereitgestellt wird.
-* **Adobe Target:** Finden Sie heraus, für welche Aktivitäten Sie sich (nicht) qualifizieren und warum.
+* **Plattformstart:** Erkennen, welche Eigenschaft, Umgebung und Build auf einer Seite bereitgestellt werden.
+* **Target:** Finden Sie heraus, für welche Aktivitäten Sie sich (nicht) qualifizieren und warum.
