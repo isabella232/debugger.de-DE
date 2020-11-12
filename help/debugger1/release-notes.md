@@ -6,10 +6,10 @@ seo-title: Versionshinweise
 title: Versionshinweise
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 translation-type: tm+mt
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
 workflow-type: tm+mt
-source-wordcount: '699'
-ht-degree: 100%
+source-wordcount: '723'
+ht-degree: 85%
 
 ---
 
@@ -50,12 +50,12 @@ ht-degree: 100%
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"> <p>Auditor-Tests </p> </td> 
-   <td colname="col2"> <p> Es wurden <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local">Auditor-Tests</a> zum Debugger hinzugefügt. </p> </td> 
+   <td colname="col1"> <p>Adobe Experience Platform Auditor-Tests </p> </td> 
+   <td colname="col2"> <p> Dem Experience Cloud Debugger wurden <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local"> Plattformprüfungen</a> hinzugefügt </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Adobe Audience Manager </p> </td> 
-   <td colname="col2"> <p>Der Debugger zeigt jetzt AAM-Antworten an. </p> </td> 
+   <td colname="col2"> <p>Experience Cloud Debugger zeigt jetzt AAM Antworten an </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -64,7 +64,7 @@ ht-degree: 100%
 
 * Es wurde ein Problem behoben, bei dem die Fußzeile Inhalte unten auf der Seite nicht anzeigte.
 
-* Die Debugger-Fußzeile wurde aktualisiert.
+* Fußzeile des Experience Cloud Debuggers aktualisiert
 * Es wurde ein Problem mit veralteter Terminologie für Target behoben.
 
 ## Version 0.0.809 28. Februar 2019 {#topic-6241de45fa9e4a23a95ad4d3a73f7348}
@@ -96,7 +96,7 @@ ht-degree: 100%
 
 * Es wurde ein Problem in „Dynamically Insert Launch“ behoben, bei dem die Benutzeroberfläche scheinbar einem anderen Einbettungscode zugeordnet war, obwohl dies nicht der Fall war.
 * Es wurde ein Problem in „Dynamically Insert Launch“ behoben, bei dem eine falsche URL weiterhin angezeigt wurde.
-* Es wurde ein Problem behoben, bei dem der Debugger weiterhin Einbettungscodes ersetzte, auch wenn das Debugger-Fenster bereits geschlossen wurde.
+* Es wurde ein Problem behoben, bei dem Experience Cloud Debugger weiterhin Einbettungscodes ersetzt hat, selbst wenn das Fenster Experience Cloud Debugger geschlossen wurde
 
 ## Version 0.0.806 10. September 2018 {#topic-a41c9d1969ff4d06ac3bb4e7d6b6d18a}
 
@@ -116,7 +116,7 @@ ht-degree: 100%
   </tr> 
   <tr> 
    <td colname="col1"> <p>Dynamically Insert Launch </p> </td> 
-   <td colname="col2"> <p>Über die Registerkarte „Tools“ können Sie Launch dynamisch auf beliebigen Seiten einfügen, um Elemente auf Seiten zu testen, auf denen Launch nicht installiert ist. </p> </td> 
+   <td colname="col2"> <p>Auf der Registerkarte "Tools"können Sie Adobe Experience Platform Launch dynamisch auf einer beliebigen Seite einfügen, um etwas auf einer Seite zu testen, auf der kein Plattformstart installiert ist. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Target-Verbesserungen </p> </td> 
@@ -139,7 +139,7 @@ ht-degree: 100%
 * Es wurde ein Problem behoben, bei dem die Registerkarte „Experience Cloud“ nicht aktualisiert wurde.
 
 * Es wurde ein Problem behoben, bei dem in der Zeile „Solution“ der Netzwerkregisterkarte „Media Optimizer“ statt des aktuellen Namens „Advertising Cloud“ angezeigt wurde.
-* Es wurde ein Problem behoben, bei dem der Debugger _satellite auf jeder Seite einfügte.
+* Es wurde ein Fehler behoben, der dazu führte, dass Experience Cloud Debugger auf jeder Seite _satellite injizierte
 
 ## Version 0.0.803 10. August 2018 {#topic-d2901fb70ce04a5586f6c7a994fce875}
 
@@ -158,8 +158,8 @@ Version 0.0.803 enthält keine kundengerichteten Änderungen.
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"> <p>Auditor-Link auf der Registerkarte „Tools“ </p> </td> 
-   <td colname="col2"> <p>Der Debugger enthält jetzt einen Link zu Auditor. </p> </td> 
+   <td colname="col1"> <p>Plattformprüfer-Link auf der Registerkarte "Werkzeuge" </p> </td> 
+   <td colname="col2"> <p>Hinzufügen eines Links zum Plattformprüfer vom Experience Cloud Debugger </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Reduzierte Registerkarten </p> </td> 
