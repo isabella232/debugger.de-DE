@@ -6,11 +6,11 @@ solution: Experience Platform, Data Collection
 audience: end-user
 user-guide-title: Hilfe zu Experience Platform Debugger
 user-guide-description: Untersuchen Sie Ihre Webseiten auf Probleme durch die Implementierung Ihrer Experience Platform.
-breadcrumb-title: Plattform Debugger-Handbuch
+breadcrumb-title: Platform Debugger-Handbuch
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 24d9c114cde4ffd5cc7c64b6a66f778d3ce6f7d0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '47'
 ht-degree: 100%
 
