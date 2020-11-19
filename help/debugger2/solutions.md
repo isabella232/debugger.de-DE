@@ -5,11 +5,11 @@ seo-description: 'Verwenden der Lösungsregisterkarten im Adobe Experience Platf
 seo-title: 'Lösungsregisterkarten im Adobe Experience Platform Debugger '
 title: Lösungsregisterkarten
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '280'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ Klicken Sie auf eine Adobe Experience Cloud-Lösung, um deren Ergebnisse anzuzei
 
 ## Adobe Experience Platform Web SDK {#aep}
 
-Der Bildschirm &quot;Adobe Experience Platform Web SDK&quot;enthält Informationen zum Adobe Experience Platform Web SDK. Klicken Sie auf **[!UICONTROL Configure]**, um die Konsolenprotokollierung ein- oder auszuschalten.
+Der Bildschirm „Adobe Experience Platform-Web-SDK“ enthält Informationen zum Adobe Experience Platform-Web-SDK. Klicken Sie auf **[!UICONTROL Configure]**, um die Konsolenprotokollierung ein- oder auszuschalten.
 
 ## Analytics {#section-f71dfcc22bb44c86bec328491606a482}
 
@@ -42,7 +42,7 @@ Verwenden Sie den Target-Bildschirm, um [Target](https://docs.adobe.com/content/
 
 ## Adobe Experience Platform Launch {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
-Verwenden Sie den Abschnitt &quot;Adobe Experience Platform Launch&quot;, um Anforderungen für den Start der Ansicht-Plattform zu erfüllen. Sie können auch auf **[!UICONTROL Configuration]** klicken, um [Einbettungscodes](https://docs.adobe.com/content/help/de-DE/launch/using/reference/upgrade/link-dtm-embed-code.html) zu konfigurieren. Im Experience Platform Debugger können weitere Einbettungscodes bearbeitet, ersetzt oder hinzugefügt werden. Wenn Sie sich anmelden, können Sie über die Dropdown-Liste eine andere Property auswählen.
+Verwenden Sie den Abschnitt „Adobe Experience Platform Launch“, um Platform Launch-Anfragen anzuzeigen. Sie können auch auf **[!UICONTROL Configuration]** klicken, um [Einbettungs-Codes](https://docs.adobe.com/content/help/de-DE/launch/using/reference/upgrade/link-dtm-embed-code.html) zu konfigurieren. Im Experience Platform Debugger können weitere Einbettungscodes bearbeitet, ersetzt oder hinzugefügt werden. Wenn Sie sich anmelden, können Sie über die Dropdown-Liste eine andere Property auswählen.
 
 ## Dynamic Tag Management {#dynamic-tag-management}
 
