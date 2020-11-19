@@ -5,22 +5,22 @@ seo-description: Ausführen von Adobe Experience Cloud Debugger
 seo-title: Zusammenfassungsbildschirm
 title: Zusammenfassungsbildschirm
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1047'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
 
 # Zusammenfassungsbildschirm {#summary-screen}
 
-Um den Adobe Experience Cloud Debugger auszuführen, klicken Sie auf das Erweiterungssymbol in der Erweiterungsleiste und öffnen Sie dann die Seite, die Sie in Chrome untersuchen möchten.
+Um Adobe Experience Cloud Debugger auszuführen, klicken Sie in der Erweiterungsleiste auf das entsprechende Symbol und öffnen Sie die Seite, die Sie untersuchen möchten, in Chrome.
 
 ![](assets/start-icon.jpg)
 
-Hierdurch wird der Bildschirm „Summary“ des Experience Cloud Debugger angezeigt.
+Hierdurch wird der Bildschirm „Summary“ von Experience Cloud Debugger angezeigt.
 
 ![](assets/summary.jpg)
 
@@ -32,13 +32,13 @@ In der folgenden Abbildung werden beispielsweise Informationen zu Adobe Target a
 
 ![](assets/summary-target2.jpg)
 
-## Durchführen einer Prüfung im Adobe Experience Platform-Prüfer {#section-82bc57440406461ebf27a16855b71655}
+## Durchführen einer Prüfung in Adobe Experience Platform Auditor {#section-82bc57440406461ebf27a16855b71655}
 
-Sie können Plaform Auditor verwenden, um eine Reihe von Prüfungen auf Ihrer Seite durchzuführen. To run Platform Auditor, click **[!UICONTROL Auditor]** in the top menu, then click **[!UICONTROL Audit Page Now]**. To open Platform Auditor, click **[!UICONTROL Run Multi-Page Audit Now]**.
+Sie können Plaform Auditor verwenden, um eine Reihe von Audits auf Ihrer Seite auszuführen. Um Platform Auditor auszuführen, klicken Sie im oberen Menü auf **[!UICONTROL Auditor]** und anschließend auf **[!UICONTROL Audit Page Now]**. Um Platform Auditor zu öffnen, klicken Sie auf **[!UICONTROL Run Multi-Page Audit Now]**.
 
-## Information shown in Experience Cloud Debugger {#section-88a95ba53dca43d9b96a585e75e5f5cf}
+## In Experience Cloud Debugger angezeigte Informationen {#section-88a95ba53dca43d9b96a585e75e5f5cf}
 
-Experience Cloud Debugger zeigt die folgenden Informationen für jede Lösung an:
+Experience Cloud Debugger zeigt die folgenden Informationen zu den verschiedenen Lösungen an:
 
 **Seiteninformationen**
 
@@ -111,7 +111,7 @@ Experience Cloud Debugger zeigt die folgenden Informationen für jede Lösung an
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Name </p> </td> 
-   <td colname="col2"> <p>The name of the Platform Launch <a href="https://docs.adobe.com/content/help/de-DE/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> property</a> </p> </td> 
+   <td colname="col2"> <p>Der Name der Platform Launch-<a href="https://docs.adobe.com/content/help/de-DE/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external">Ressource</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
@@ -119,15 +119,15 @@ Experience Cloud Debugger zeigt die folgenden Informationen für jede Lösung an
   </tr> 
   <tr> 
    <td colname="col1"> <p>Build-Datum </p> </td> 
-   <td colname="col2"> <p>The Platform Launch <a href="https://docs.adobe.com/content/help/de-DE/launch/using/reference/publish/libraries.html" format="https" scope="external"> library</a> build date </p> </td> 
+   <td colname="col2"> <p>Das Build-Datum der Platform Launch-<a href="https://docs.adobe.com/content/help/de-DE/launch/using/reference/publish/libraries.html" format="https" scope="external">Bibliothek</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Umgebung </p> </td> 
-   <td colname="col2"> <p>The <a href="https://docs.adobe.com/content/help/de-DE/launch/using/reference/publish/environments.html" format="https" scope="external"> environment</a> used by the Platform Launch library </p> </td> 
+   <td colname="col2"> <p>Die von der Platform Launch-Bibliothek verwendete <a href="https://docs.adobe.com/content/help/de-DE/launch/using/reference/publish/environments.html" format="https" scope="external">Umgebung</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Skriptverzeichnis </p> </td> 
-   <td colname="col2"> <p>Der Ordner, in dem das Skript "Plattformstart"gespeichert ist </p> </td> 
+   <td colname="col2"> <p>Das Verzeichnis, in dem das Platform Launch-Skript gespeichert wurde. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -146,7 +146,7 @@ Experience Cloud Debugger zeigt die folgenden Informationen für jede Lösung an
   </tr> 
   <tr> 
    <td colname="col1"> <p>Build-Datum </p> </td> 
-   <td colname="col2"> <p>The Platform Launch <a href="https://docs.adobe.com/content/help/de-DE/dtm/using/library-management.html" format="html" scope="external"> library</a> build date </p> </td> 
+   <td colname="col2"> <p>Das Build-Datum der Platform Launch-<a href="https://docs.adobe.com/content/help/de-DE/dtm/using/library-management.html" format="html" scope="external">Bibliothek</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Umgebung </p> </td> 
