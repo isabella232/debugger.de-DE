@@ -5,11 +5,11 @@ seo-description: Verwenden der Lösungsregisterkarten im Adobe Debugger
 seo-title: Lösungsregisterkarten im Adobe Debugger
 title: Lösungsregisterkarten
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1063'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ Klicken Sie auf die Report Suite ID, um die Ansicht zu erweitern:
 
 ![](assets/analytics-hits-expand.jpg)
 
-In diesem Bildschirm werden alle Anforderungen angezeigt, die seit dem Öffnen des Adobe Experience Platform-Debuggers oder dem Löschen der Anforderungen aufgetreten sind. Die Standardparameter werden automatisch benutzerfreundlichen Namen zugeordnet. [Props und eVars](https://docs.adobe.com/content/help/de-DE/analytics/implementation/vars/page-vars/evar.html) können eigenen benutzerfreundlichen Namen zugeordnet werden (z. B. „Benutzertyp“ für „prop1“), wenn Sie sich über die Funktion „Link Analytics“ authentifizieren (siehe unten). Anfragen werden von links nach rechts sortiert.
+Auf diesem Bildschirm werden alle Anfragen angezeigt, seit der Adobe Experience Pllatform Debugger zum letzten Mal geöffnet oder die Anfragen gelöscht wurden. Die Standardparameter werden automatisch benutzerfreundlichen Namen zugeordnet. [Props und eVars](https://docs.adobe.com/content/help/de-DE/analytics/implementation/vars/page-vars/evar.html) können eigenen benutzerfreundlichen Namen zugeordnet werden (z. B. „Benutzertyp“ für „prop1“), wenn Sie sich über die Funktion „Link Analytics“ authentifizieren (siehe unten). Anfragen werden von links nach rechts sortiert.
 
 **Download:** Speichern Sie alle Anfragen an die Report Suite als Excel-Tabelle.
 
@@ -44,7 +44,7 @@ In diesem Bildschirm werden alle Anforderungen angezeigt, die seit dem Öffnen d
 
 **Linked Accounts (veraltet)**
 
-Click **[!UICONTROL Link Account]**, then enter the requested information to link an Analytics account to the Platform Debugger.
+Klicken Sie auf **[!UICONTROL Link Account]** und geben Sie die angeforderten Informationen ein, um ein Analytics-Konto mit dem Platform Debugger zu verknüpfen.
 
 >[!NOTE]
 >
@@ -56,7 +56,7 @@ Click **[!UICONTROL Link Account]**, then enter the requested information to lin
 
 Aktivieren Sie die Option „Retrieve Post-Processed Hits“, wenn Sie die Werte zu Analytics-Treffern anzeigen möchten, nachdem die Verarbeitungsregeln ausgeführt wurden. Sie müssen bei Adobe Experience Cloud angemeldet seit, um diese Funktion zu nutzen.
 
-Wenn die Option aktiviert ist, werden die Debugging-Parameter zu Ihren Analytics-Anfragen hinzugefügt. Treffer werden weiterhin genau wie andere Treffer verarbeitet. Der Plattform-Debugger fragt die Analytics-Debugger-API ab, um die Werte der Regeln für die Nachbearbeitung für Treffer abzurufen, die über eine ursprüngliche Hit-ID verfügen. Treffer nach der Verarbeitung sind lila hinterlegt und werden neben dem ursprünglichen Treffer angezeigt.
+Wenn die Option aktiviert ist, werden die Debugging-Parameter zu Ihren Analytics-Anfragen hinzugefügt. Treffer werden weiterhin genau wie andere Treffer verarbeitet. Platform Debugger ruft bei der Analytics-Debugging-API für alle Treffer, die über eine ursprüngliche Treffer-ID verfügen, die Werte nach der Verarbeitung ab. Treffer nach der Verarbeitung sind lila hinterlegt und werden neben dem ursprünglichen Treffer angezeigt.
 
 Bei den meisten Analytics-Implementierungen sind die Informationen nach Ausführen der Verarbeitungsregeln innerhalb weniger Minuten verfügbar. Die A4T-Implementierung (Analytics for Target) erfordert deutlich mehr Zeit.
 
@@ -88,11 +88,11 @@ Sie müssen auf einem Chrome-Tab bei Experience Cloud angemeldet sein, um Mbox 
 
 Im folgenden Video werden die allgemeinen Target-Funktionen vorgestellt:
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=ger)
 
 Im folgenden Video wird Mbox Trace vorgestellt:
 
->[!VIDEO](https://video.tv.adobe.com/v/23113t2/)
+>[!VIDEO](https://video.tv.adobe.com/v/23113t2/?captions=ger)
 
 ## Audience Manager {#section-1d4484f8b46f457f859ba88039a9a585}
 
