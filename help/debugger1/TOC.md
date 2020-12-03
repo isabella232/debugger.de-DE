@@ -7,9 +7,9 @@ audience: end-user
 user-guide-title: Experience Cloud Debugger-Hilfe
 user-guide-description: Untersuchen Sie Ihre Websites auf Probleme mit Ihren Experience Cloud-Lösungsimplementierungen.
 breadcrumb-title: Debugger-Anleitung
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 24d9c114cde4ffd5cc7c64b6a66f778d3ce6f7d0
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 100%
 
