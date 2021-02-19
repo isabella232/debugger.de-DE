@@ -1,6 +1,6 @@
 ---
 description: Bildschirm für Experience Platform Debugger-Protokolle
-keywords: debugger;experience Platform Debugger extension;chrome;extension;logs
+keywords: debugger;Experience Platform Debugger Extension;chrome;extension;logs
 seo-description: Bildschirm für Experience Platform Debugger-Protokolle
 seo-title: Protokolle
 title: Protokolle
@@ -8,8 +8,8 @@ uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
 translation-type: tm+mt
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 100%
+source-wordcount: '165'
+ht-degree: 95%
 
 ---
 
