@@ -1,6 +1,6 @@
 ---
 description: Installieren von Experience Platform Debugger
-keywords: debugger;experience Platform Debugger extension;chrome;extension;install
+keywords: debugger;Experience Platform Debugger Extension;chrome;extension;install
 seo-description: Installieren von Experience Platform Debugger
 seo-title: Installation von Experience Platform Debugger
 title: Installation von Experience Platform Debugger
@@ -8,8 +8,8 @@ uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
 translation-type: tm+mt
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 100%
+source-wordcount: '106'
+ht-degree: 92%
 
 ---
 
