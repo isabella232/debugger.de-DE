@@ -1,6 +1,6 @@
 ---
 description: Bildschirm für Experience Platform Debugger-Netzwerk
-keywords: debugger;experience Platform Debugger extension;chrome;extension;network;information
+keywords: debugger;Experience Platform Debugger Extension;chrome;extension;network;information
 seo-description: Bildschirm für Experience Platform Debugger-Netzwerk
 seo-title: Netzwerkinformationen
 title: Netzwerkinformationen
@@ -8,8 +8,8 @@ uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 translation-type: tm+mt
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 100%
+source-wordcount: '236'
+ht-degree: 96%
 
 ---
 
