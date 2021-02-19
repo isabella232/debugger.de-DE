@@ -1,14 +1,14 @@
 ---
 description: Bildschirm für Experience Platform Debugger-Ereignisse
-keywords: debugger;experience platform debugger extension;chrome;extension;events;dtm;target
+keywords: Debugger;Erweiterungen für Erlebnis-Plattform-Debugger;Chrome;Erweiterung;Ereignisse;dtm;Zielgruppe
 seo-description: Bildschirm für Experience Platform Debugger-Ereignisse
 seo-title: Ereignisse
 title: Ereignisse
 translation-type: tm+mt
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 100%
+source-wordcount: '179'
+ht-degree: 94%
 
 ---
 
