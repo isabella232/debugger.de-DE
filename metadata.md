@@ -10,9 +10,9 @@ tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/de/analytics/how-to/adobe-launch-publishing-process.html
 git-repo: https://git.corp.adobe.com/AdobeDocs/debugger.de-DE
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: ba9d20e620fa85141507713749c8edd6504c46df
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '135'
 ht-degree: 100%
 
