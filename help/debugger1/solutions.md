@@ -5,16 +5,15 @@ seo-description: Verwenden der Lösungsregisterkarten im Adobe Debugger
 seo-title: Lösungsregisterkarten im Adobe Debugger
 title: Lösungsregisterkarten
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+exl-id: 1364e3df-4eba-4270-9b58-1bf397f29a60
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '1085'
-ht-degree: 100%
+source-wordcount: '1102'
+ht-degree: 98%
 
 ---
 
-
-# Lösungsregisterkarten {#solution-tabs}
+# Lösungsregisterkarten{#solution-tabs}
 
 Klicken Sie auf die Lösungsregisterkarten, um die Ergebnisse für bestimmte Adobe Experience Cloud-Lösungen anzuzeigen.
 
@@ -44,7 +43,7 @@ Auf diesem Bildschirm werden alle Anfragen angezeigt, seit der Adobe Experience 
 
 **Linked Accounts (veraltet)**
 
-Klicken Sie auf **[!UICONTROL Link Account]** und geben Sie die angeforderten Informationen ein, um ein Analytics-Konto mit dem Platform Debugger zu verknüpfen.
+Klicken Sie auf **[!UICONTROL Konto verknüpfen]** und geben Sie die angeforderten Informationen ein, um ein Analytics-Konto mit dem Platform Debugger zu verknüpfen.
 
 >[!NOTE]
 >
@@ -94,7 +93,7 @@ Im folgenden Video wird Mbox Trace vorgestellt:
 
 >[!VIDEO](https://video.tv.adobe.com/v/23113t2/)
 
-## Audience Manager {#section-1d4484f8b46f457f859ba88039a9a585}
+## Audience Manager {#section-1d4484f8b46f457f859ba88039a9a585}
 
 Über die Registerkarte [Audience Manager](https://docs.adobe.com/content/help/de-DE/audience-manager/user-guide/aam-home.html) können Sie Details von [Ereignissen](https://docs.adobe.com/content/help/de-DE/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-event-calls/dcs-event-calls.html) anzeigen. Klicken Sie auf eine Organisation, um sie zu erweitern und detaillierte Informationen anzuzeigen.
 
@@ -118,7 +117,7 @@ Klicken Sie auf **[!UICONTROL Requests]** und erweitern Sie die Umgebung, um Inf
 
 Klicken Sie auf **[!UICONTROL Clear All Requests]**, um die aktuellen Anfragen zu entfernen. Neue Anfragen werden angezeigt, sobald sie auftreten.
 
-## Experience Cloud ID-Dienst {#section-a96c32f8e63a4991abb296f6e8ea01cf}
+## Experience Cloud ID-Service {#section-a96c32f8e63a4991abb296f6e8ea01cf}
 
 Über die Registerkarte „Experience Cloud ID Service“ können Sie [Experience Cloud ID-Dienst](https://docs.adobe.com/content/help/de-DE/id-service/using/home.html)-Anfragen anzeigen.
 
