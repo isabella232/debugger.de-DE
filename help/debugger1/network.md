@@ -5,16 +5,15 @@ seo-description: Bildschirm für Experience Cloud Debugger-Netzwerkinformationen
 seo-title: Netzwerkinformationen
 title: Netzwerkinformationen
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: tm+mt
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+exl-id: 9a758088-e87f-42a6-8410-24eb84d0d37a
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '228'
 ht-degree: 100%
 
 ---
 
-
-# Netzwerkinformationen {#network-information}
+# Netzwerkinformationen{#network-information}
 
 Um Netzwerkinformationen anzuzeigen, klicken Sie auf **[!UICONTROL Network]**.
 
@@ -41,4 +40,3 @@ Klicken Sie auf ein Element in der Netzwerkansicht, um es zu vergrößern. In de
 Verwenden Sie das Symbol oben in der jeweiligen Spalte, um die Server-Aufruf-URL in die Zwischenablage zu kopieren, von wo aus Sie sie zur Referenz oder zur Fehlerbehebung in andere Dokumente einfügen können.
 
 ![](assets/copy.jpg)
-
