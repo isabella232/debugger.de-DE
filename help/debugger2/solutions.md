@@ -1,20 +1,19 @@
 ---
 description: Verwenden der Lösungsregisterkarten im Adobe Experience Platform Debugger
-keywords: Debugger;Experience Platform Debugger-Erweiterung;Chrome;Extension;Zusammenfassung;clear;Anforderungen;Lösungen;Lösung;Informationen;Zielgruppe;Audience-Manager;Medienoptimierung;AMO;ID-Dienst
+keywords: Debugger;Experience Platform Debugger-Erweiterung;Chrome;Erweiterung;Zusammenfassung;clear;Anfragen;Lösungen;Lösung;Informationen;Analytics;Target;Audience Manager;Media Optimizer;AMO;ID-Dienst
 seo-description: 'Verwenden der Lösungsregisterkarten im Adobe Experience Platform Debugger '
 seo-title: 'Lösungsregisterkarten im Adobe Experience Platform Debugger '
 title: Lösungsregisterkarten
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+exl-id: 2cb49f78-4a4b-4410-8a4b-6f9009c51d58
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 92%
+source-wordcount: '305'
+ht-degree: 83%
 
 ---
 
-
-# „Lösungen“ {#solution-tabs}
+# Lösungen{#solution-tabs}
 
 >[!IMPORTANT]
 >
@@ -24,7 +23,7 @@ Klicken Sie auf eine Adobe Experience Cloud-Lösung, um deren Ergebnisse anzuzei
 
 ## Adobe Experience Platform Web SDK {#aep}
 
-Der Bildschirm „Adobe Experience Platform-Web-SDK“ enthält Informationen zum Adobe Experience Platform-Web-SDK. Klicken Sie auf **[!UICONTROL Configure]**, um die Konsolenprotokollierung ein- oder auszuschalten.
+Der Bildschirm „Adobe Experience Platform Web SDK“ enthält Informationen zum Adobe Experience Platform Web SDK. Klicken Sie auf **[!UICONTROL Konfigurieren]** , um die Konsolenprotokollierung ein- oder auszuschalten.
 
 ## Analytics {#section-f71dfcc22bb44c86bec328491606a482}
 
@@ -36,18 +35,18 @@ Der Analytics-Bildschirm enthält Informationen zu Ihrer [Analytics](https://doc
 
 Verwenden Sie den Target-Bildschirm, um [Target](https://docs.adobe.com/content/help/de-DE/target/using/target-home.html)-Anfragen anzuzeigen<!-- or [Mbox Trace](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html) response details-->.
 
-## Audience Manager {#section-1d4484f8b46f457f859ba88039a9a585}
+## Audience Manager {#section-1d4484f8b46f457f859ba88039a9a585}
 
 Über die Registerkarte [Audience Manager](https://docs.adobe.com/content/help/de-DE/audience-manager/user-guide/aam-home.html) können Sie Details von [Ereignissen](https://docs.adobe.com/content/help/de-DE/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-event-calls/dcs-event-calls.html) anzeigen. Klicken Sie auf eine Organisation, um sie zu erweitern und detaillierte Informationen anzuzeigen.
 
 ## Adobe Experience Platform Launch {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
-Verwenden Sie den Abschnitt „Adobe Experience Platform Launch“, um Platform Launch-Anfragen anzuzeigen. Sie können auch auf **[!UICONTROL Configuration]** klicken, um [Einbettungs-Codes](https://docs.adobe.com/content/help/de-DE/launch/using/reference/upgrade/link-dtm-embed-code.html) zu konfigurieren. Im Experience Platform Debugger können weitere Einbettungscodes bearbeitet, ersetzt oder hinzugefügt werden. Wenn Sie sich anmelden, können Sie über die Dropdown-Liste eine andere Property auswählen.
+Verwenden Sie den Abschnitt „Adobe Experience Platform Launch“, um Platform Launch-Anfragen anzuzeigen. Sie können auch auf **[!UICONTROL Konfiguration]** klicken, um [Einbettungscodes](https://docs.adobe.com/content/help/de-DE/launch/using/reference/upgrade/link-dtm-embed-code.html) zu konfigurieren. Im Experience Platform Debugger können weitere Einbettungscodes bearbeitet, ersetzt oder hinzugefügt werden. Wenn Sie sich anmelden, können Sie über die Dropdown-Liste eine andere Property auswählen.
 
 ## Dynamic Tag Management {#dynamic-tag-management}
 
-Im Bereich „Dynamic Tag Management“ können Sie sich DTM-Anfragen anzeigen lassen. Sie können auch auf **[!UICONTROL Configuration]** klicken, um [Einbettungscodes](https://docs.adobe.com/content/help/de-DE/dtm/using/client-side/code.html) zu konfigurieren.
+Im Bereich „Dynamic Tag Management“ können Sie sich DTM-Anfragen anzeigen lassen. Sie können auch auf **[!UICONTROL Konfiguration]** klicken, um [Einbettungscodes](https://docs.adobe.com/content/help/de-DE/dtm/using/client-side/code.html) zu konfigurieren.
 
-## Experience Cloud ID-Dienst {#section-a96c32f8e63a4991abb296f6e8ea01cf}
+## Experience Cloud ID-Service {#section-a96c32f8e63a4991abb296f6e8ea01cf}
 
 Über die Registerkarte „Experience Cloud ID Service“ können Sie [Experience Cloud ID-Dienst](https://docs.adobe.com/content/help/de-DE/id-service/using/home.html)-Anfragen anzeigen.
