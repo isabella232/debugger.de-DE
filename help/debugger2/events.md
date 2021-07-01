@@ -1,19 +1,18 @@
 ---
 description: Bildschirm für Experience Platform Debugger-Ereignisse
-keywords: Debugger;Erweiterungen für Erlebnis-Plattform-Debugger;Chrome;Erweiterung;Ereignisse;dtm;Zielgruppe
+keywords: debugger;experience platform debugger extension;chrome;extension;events;dtm;target
 seo-description: Bildschirm für Experience Platform Debugger-Ereignisse
 seo-title: Ereignisse
 title: Ereignisse
-translation-type: tm+mt
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+exl-id: 1f94ca36-d545-4e41-89a9-ed97c45991fb
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 94%
+source-wordcount: '181'
+ht-degree: 87%
 
 ---
 
-
-# Ereignisse {#events}
+# Ereignisse{#events}
 
 >[!IMPORTANT]
 >
@@ -40,10 +39,10 @@ So aktivieren Sie das Verfolgen von Datenschichtänderungen auf der Timeline:
 
    ![](assets/event-datalayer.jpg)
 
-1. Klicken Sie auf **[!UICONTROL Save]**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
 In den Details zu Datenschichtänderungen werden alle gelöschten oder hinzugefügten Elemente angezeigt. Wenn Sie auf **{}** klicken, werden Details von tieferen Datenschichten angezeigt.
 
 ## Ereignisinformationen herunterladen
 
-Klicken Sie auf **[!UICONTROL Download]**, um eine Excel-Datei mit Informationen zu Ihren Seitenaufrufen herunterzuladen.
+Klicken Sie auf **[!UICONTROL Download]** , um eine Excel-Datei mit Informationen zu Ihren Seitenaufrufen herunterzuladen.
