@@ -1,20 +1,19 @@
 ---
 description: Bildschirm für Experience Platform Debugger-Protokolle
-keywords: debugger;Experience Platform Debugger Extension;chrome;extension;logs
+keywords: debugger;experience Platform Debugger extension;chrome;extension;logs
 seo-description: Bildschirm für Experience Platform Debugger-Protokolle
 seo-title: Protokolle
 title: Protokolle
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+exl-id: 137a97f2-7e02-4e09-b4c9-e48e20e044d1
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 95%
+source-wordcount: '176'
+ht-degree: 71%
 
 ---
 
-
-# Protokolle {#logs}
+# Protokolle{#logs}
 
 >[!IMPORTANT]
 >
@@ -26,19 +25,19 @@ Der Bildschirm „Logs“ enthält spezifische Informationen zu DTM-, Adobe Expe
 
 Der Bildschirm „Protokolle“ zeigt Informationen in vier Spalten an:
 
-**[!UICONTROL Solutions]:** enthält Symbole für die Experience Cloud-Lösung, die vom protokollierten Element betroffen ist. Bewegen Sie den Mauszeiger über ein Symbol, um eine Textbeschreibung zu erhalten.
+**[!UICONTROL Lösungen]:** Zeigt Symbole für die vom protokollierten Element betroffene Experience Cloud-Lösung an. Bewegen Sie den Mauszeiger über ein Symbol, um eine Textbeschreibung zu erhalten.
 
-**[!UICONTROL Occurred at]:** gibt an, wann in der Sitzung das protokollierte Problem aufgetreten ist.
+**[!UICONTROL Tritt auf]:** Zeigt an, wann das protokollierte Problem während der Sitzung aufgetreten ist.
 
-**[!UICONTROL Log level]:** gibt den Schweregrad des Problems an. Der Schweregrad kann folgende Werte aufweisen:
+**[!UICONTROL Protokollebene]:**  Zeigt den Schweregrad des Problems an. Der Schweregrad kann folgende Werte aufweisen:
 
 * Protokoll
 * Info
 * Warnungen
 * Fehler
 
-**[!UICONTROL Log message]:** beschreibt das Problem.
+**[!UICONTROL Protokollmeldung]:** Beschreibt das Problem.
 
 Einige Protokollinformationen enthalten die Option „Show Code“. Klicken Sie auf **[!UICONTROL Show Code]**, um den Bedingungscode anzuzeigen, der bestimmt, ob eine Regel ausgelöst wird.
 
-Um das Protokoll zu löschen, klicken Sie auf **[!UICONTROL Remove Logs]**.
+Um das Protokoll zu löschen, klicken Sie auf **[!UICONTROL Protokolle entfernen]**.
