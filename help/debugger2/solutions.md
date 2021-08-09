@@ -8,8 +8,8 @@ uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
 exl-id: 2cb49f78-4a4b-4410-8a4b-6f9009c51d58
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 83%
+source-wordcount: '302'
+ht-degree: 92%
 
 ---
 
@@ -23,7 +23,7 @@ Klicken Sie auf eine Adobe Experience Cloud-Lösung, um deren Ergebnisse anzuzei
 
 ## Adobe Experience Platform Web SDK {#aep}
 
-Der Bildschirm „Adobe Experience Platform Web SDK“ enthält Informationen zum Adobe Experience Platform Web SDK. Klicken Sie auf **[!UICONTROL Konfigurieren]** , um die Konsolenprotokollierung ein- oder auszuschalten.
+Der Bildschirm „Adobe Experience Platform Web SDK“ enthält Informationen zum Adobe Experience Platform Web SDK. Klicken Sie auf **[!UICONTROL Configure]**, um die Konsolenprotokollierung ein- oder auszuschalten.
 
 ## Analytics {#section-f71dfcc22bb44c86bec328491606a482}
 
@@ -41,11 +41,11 @@ Verwenden Sie den Target-Bildschirm, um [Target](https://docs.adobe.com/content/
 
 ## Adobe Experience Platform Launch {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
-Verwenden Sie den Abschnitt „Adobe Experience Platform Launch“, um Platform Launch-Anfragen anzuzeigen. Sie können auch auf **[!UICONTROL Konfiguration]** klicken, um [Einbettungscodes](https://docs.adobe.com/content/help/de-DE/launch/using/reference/upgrade/link-dtm-embed-code.html) zu konfigurieren. Im Experience Platform Debugger können weitere Einbettungscodes bearbeitet, ersetzt oder hinzugefügt werden. Wenn Sie sich anmelden, können Sie über die Dropdown-Liste eine andere Property auswählen.
+Verwenden Sie den Abschnitt „Adobe Experience Platform Launch“, um Platform Launch-Anfragen anzuzeigen. Sie können auch auf **[!UICONTROL Configuration]** klicken, um [Einbettungs-Codes](https://docs.adobe.com/content/help/de-DE/launch/using/reference/upgrade/link-dtm-embed-code.html) zu konfigurieren. Im Experience Platform Debugger können weitere Einbettungscodes bearbeitet, ersetzt oder hinzugefügt werden. Wenn Sie sich anmelden, können Sie über die Dropdown-Liste eine andere Property auswählen.
 
 ## Dynamic Tag Management {#dynamic-tag-management}
 
-Im Bereich „Dynamic Tag Management“ können Sie sich DTM-Anfragen anzeigen lassen. Sie können auch auf **[!UICONTROL Konfiguration]** klicken, um [Einbettungscodes](https://docs.adobe.com/content/help/de-DE/dtm/using/client-side/code.html) zu konfigurieren.
+Im Bereich „Dynamic Tag Management“ können Sie sich DTM-Anfragen anzeigen lassen. Sie können auch auf **[!UICONTROL Configuration]** klicken, um [Einbettungscodes](https://docs.adobe.com/content/help/de-DE/dtm/using/client-side/code.html) zu konfigurieren.
 
 ## Experience Cloud ID-Service {#section-a96c32f8e63a4991abb296f6e8ea01cf}
 
