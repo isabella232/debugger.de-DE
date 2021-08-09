@@ -7,8 +7,8 @@ title: Ereignisse
 exl-id: 1f94ca36-d545-4e41-89a9-ed97c45991fb
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 87%
+source-wordcount: '179'
+ht-degree: 94%
 
 ---
 
@@ -39,10 +39,10 @@ So aktivieren Sie das Verfolgen von Datenschichtänderungen auf der Timeline:
 
    ![](assets/event-datalayer.jpg)
 
-1. Klicken Sie auf **[!UICONTROL Speichern]**.
+1. Klicken Sie auf **[!UICONTROL Save]**.
 
 In den Details zu Datenschichtänderungen werden alle gelöschten oder hinzugefügten Elemente angezeigt. Wenn Sie auf **{}** klicken, werden Details von tieferen Datenschichten angezeigt.
 
 ## Ereignisinformationen herunterladen
 
-Klicken Sie auf **[!UICONTROL Download]** , um eine Excel-Datei mit Informationen zu Ihren Seitenaufrufen herunterzuladen.
+Klicken Sie auf **[!UICONTROL Download]**, um eine Excel-Datei mit Informationen zu Ihren Seitenaufrufen herunterzuladen.
