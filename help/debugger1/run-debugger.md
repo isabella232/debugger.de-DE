@@ -8,8 +8,8 @@ uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 exl-id: 0ee0314b-1611-4581-ae54-2c784e0e56ff
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '1080'
-ht-degree: 97%
+source-wordcount: '1069'
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ In der folgenden Abbildung werden beispielsweise Informationen zu Adobe Target a
 
 ## Durchführen einer Prüfung in Adobe Experience Platform Auditor {#section-82bc57440406461ebf27a16855b71655}
 
-Sie können Plaform Auditor verwenden, um eine Reihe von Audits auf Ihrer Seite auszuführen. Um Platform Auditor auszuführen, klicken Sie im oberen Menü auf **[!UICONTROL Auditor]** und dann auf **[!UICONTROL Audit Page Now]**. Um Platform Auditor zu öffnen, klicken Sie auf **[!UICONTROL Run Multi-Page Audit Now]**.
+Sie können Plaform Auditor verwenden, um eine Reihe von Audits auf Ihrer Seite auszuführen. Um Platform Auditor auszuführen, klicken Sie im oberen Menü auf **[!UICONTROL Auditor]** und anschließend auf **[!UICONTROL Audit Page Now]**. Um Platform Auditor zu öffnen, klicken Sie auf **[!UICONTROL Run Multi-Page Audit Now]**.
 
 ## In Experience Cloud Debugger angezeigte Informationen {#section-88a95ba53dca43d9b96a585e75e5f5cf}
 
