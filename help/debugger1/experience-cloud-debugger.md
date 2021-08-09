@@ -8,8 +8,8 @@ uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
 exl-id: 02d88172-3fb1-4111-a80d-e9d46df9ea1e
 source-git-commit: e3f0fa30fa5caeccc9a01b5d1949722836645da9
 workflow-type: tm+mt
-source-wordcount: '274'
-ht-degree: 92%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -28,7 +28,7 @@ Die oben aufgeführten Schritte müssen nicht zwingend in dieser Reihenfolge aus
 
 Sie können den Debugger zwar auf jeder Webseite ausführen, jedoch sind nicht öffentliche Daten nur dann in der Erweiterung verfügbar, wenn Sie in einem der geöffneten Chrome-Tabs bei der Experience Cloud angemeldet sind.
 
-## Nutzungsszenarien {#section-9fcd0583ed184943a8f0c2d3c00658e0}
+## Nutzungsszenarios {#section-9fcd0583ed184943a8f0c2d3c00658e0}
 
 Verwenden Sie den Debugger, um Informationen zur Implementierung Ihrer Experience Cloud-Lösungen zu sammeln. Beispiel:
 
