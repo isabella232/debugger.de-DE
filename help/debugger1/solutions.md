@@ -8,8 +8,8 @@ uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
 exl-id: 1364e3df-4eba-4270-9b58-1bf397f29a60
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '1102'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -43,7 +43,7 @@ Auf diesem Bildschirm werden alle Anfragen angezeigt, seit der Adobe Experience 
 
 **Linked Accounts (veraltet)**
 
-Klicken Sie auf **[!UICONTROL Konto verknüpfen]** und geben Sie die angeforderten Informationen ein, um ein Analytics-Konto mit dem Platform Debugger zu verknüpfen.
+Klicken Sie auf **[!UICONTROL Link Account]** und geben Sie die angeforderten Informationen ein, um ein Analytics-Konto mit dem Platform Debugger zu verknüpfen.
 
 >[!NOTE]
 >
