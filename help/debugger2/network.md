@@ -8,8 +8,8 @@ uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 exl-id: ed0579ef-ec26-43df-9453-a395c105038a
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '241'
-ht-degree: 87%
+source-wordcount: '236'
+ht-degree: 96%
 
 ---
 
@@ -35,7 +35,7 @@ Um die entsprechenden Informationen einer Lösung anzuzeigen, wählen Sie die ge
 
 ![](assets/network-analytics.jpg)
 
-Wenn Sie wieder alle Lösungen anzeigen möchten, klicken Sie auf **[!UICONTROL .Netzwerk]**
+Wenn Sie wieder alle Lösungen anzeigen möchten, klicken Sie auf **[!UICONTROL Network]**.
 
 Klicken Sie auf ein Element in der Netzwerkansicht, um es zu erweitern. In der erweiterten Ansicht können Sie die angezeigten Informationen in die Zwischenablage kopieren.
 
@@ -45,6 +45,6 @@ Klicken Sie auf ein Element in der Netzwerkansicht, um es zu erweitern. In der e
 
 ![](assets/copy.jpg)-->
 
-Um die Liste zu löschen, klicken Sie auf **[!UICONTROL Ereignisse entfernen]**.
+Um die Liste zu löschen, klicken Sie auf **[!UICONTROL Remove Events]**.
 
-Um eine Excel-Datei mit den Informationen auf diesem Bildschirm herunterzuladen, klicken Sie auf **[!UICONTROL Download]**.
+Um eine Excel-Datei mit den auf diesem Bildschirm angezeigten Informationen herunterzuladen, klicken Sie auf **[!UICONTROL Download]**.
