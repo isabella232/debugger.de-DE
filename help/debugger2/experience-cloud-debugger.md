@@ -1,15 +1,15 @@
 ---
 description: Experience Platform Debugger überprüft Ihre Webseiten und unterstützt Sie dabei, Probleme innerhalb der Implementierung Ihrer Experience Cloud-Lösungen zu finden.
 keywords: debugger;experience Platform Debugger extension;chrome;extension
-seo-description: Technische Dokumentation für die Chrome- und Firefox-Erweiterung „Adobe Experience Platform Debugger“ – Untersuchen Sie Webseiten und finden Sie Probleme innerhalb der Implementierung Ihrer Experience Cloud-Lösungen.
-seo-title: Chrome- und Firefox-Erweiterung „Adobe Experience Platform Debugger“
+seo-description: Technical documentation for the Adobe Experience Platform Debugger Chrome and Firefox Extension - examine your web pages and understand problems with your Experience Cloud solution mplementations
+seo-title: Adobe Experience Platform Debugger Chrome and Firefox Extension
 title: Adobe Experience Platform Debugger-Erweiterung
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
 exl-id: e02bc318-fbff-4a19-980a-d5c0a21ca300
-source-git-commit: e3f0fa30fa5caeccc9a01b5d1949722836645da9
+source-git-commit: 38aa891a1de63ad395f12726597bd8bba82189e6
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '289'
+ht-degree: 27%
 
 ---
 
@@ -19,25 +19,27 @@ ht-degree: 0%
 >
 >Adobe Experience Platform Debugger ist aktuell in der Betaversion verfügbar. Die Dokumentation und Funktionalität können sich ändern.
 
-[Adobe Experience Platform Debugger für Chrome](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj) und [Firefox](https://addons.mozilla.org/de/firefox/addon/adobe-experience-platform-dbg/) überprüft Ihre Webseiten und hilft Ihnen, Probleme bei der Implementierung Ihrer Experience Cloud-Lösungen zu finden.
+Die Adobe Experience Platform Debugger-Erweiterung für [Chrome](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj) und [Firefox](https://addons.mozilla.org/de/firefox/addon/adobe-experience-platform-dbg/) überprüft Ihre Webseiten und hilft Ihnen, Probleme bei der Implementierung Ihrer Adobe Experience Cloud-Lösungen zu finden.
 
-Verwenden Sie Platform Debugger mit den anderen Adobe-Aktivierungslösungen für Workflows wie den folgenden:
+Sie können Platform Debugger mit den anderen Adobe-Aktivierungslösungen verwenden, um Folgendes auszuführen:
 
-1. Verwenden Sie [Launch](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=de) oder [DTM](https://docs.adobe.com/content/help/de-DE/dtm/using/dtm-home.html), um Code einzufügen, der [Adobe Experience Cloud](https://docs.adobe.com/content/help/de-DE/core-services/interface/experience-cloud.html)-Lösungen auf Ihren Seiten aktiviert.
+1. Verwendung [tags](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=de) in der Datenerfassungs-Benutzeroberfläche, um Code einzufügen, der aktiviert ist [Adobe Experience Cloud](https://docs.adobe.com/content/help/de-DE/core-services/interface/experience-cloud.html) Produkte auf Ihren Seiten.
+1. Verwenden Sie die [**[!UICONTROL Auditor]**tab](./auditor.md) in Platform Debugger , um Ihre Implementierungen zu testen.
+1. Verwenden Sie ereignisbasierte und lösungsspezifische Tools in Platform Debugger, um von Auditor gefundene Probleme zu beheben oder andere Informationen über Ihre Implementierungen zu untersuchen.
 
-1. Testen Sie Ihre Implementierungen mithilfe von [Adobe Experience Platform Auditor](https://docs.adobe.com/content/help/de-DE/auditor/using/overview.html).
-1. Mit Adobe Experience Platform Debugger können Sie von Auditor gefundene Probleme beheben oder andere Informationen über Ihre Implementierungen überprüfen.
+>[!NOTE]
+>
+>Die oben genannten Schritte stellen zwar einen gemeinsamen Prozess dar, werden jedoch nicht notwendigerweise in der angegebenen Reihenfolge ausgeführt.
 
-Die oben aufgeführten Schritte müssen nicht zwingend in dieser Reihenfolge ausgeführt werden.
+Sie können Platform Debugger auf jeder Webseite ausführen und die Erweiterung hat Zugriff auf öffentliche Daten. Um mit der -Erweiterung auf nicht öffentliche Daten zugreifen zu können, müssen Sie in einem geöffneten Browser-Tab bei Experience Cloud authentifiziert sein.
 
-Sie können Platform Debugger zwar auf jeder Web-Seite ausführen, jedoch sind nicht öffentliche Daten nur dann in der Erweiterung verfügbar, wenn Sie in einem der geöffneten Chrome-Tabs bei der Experience Cloud angemeldet sind.
+## Anwendungsfälle {#section-9fcd0583ed184943a8f0c2d3c00658e0}
 
-## Anwendungsbeispiele {#section-9fcd0583ed184943a8f0c2d3c00658e0}
+Sie können die von Platform Debugger erfassten Informationen verwenden, um besser zu verstehen, wie Ihre Experience Cloud-Lösungen implementiert sind. Beispiel:
 
-Verwenden Sie Platform Debugger, um Informationen zur Implementierung Ihrer Experience Cloud-Lösungen zu sammeln. Beispiel:
-
-* **Adobe Experience Platform Launch:** Ermitteln Sie, welche Property, welche Umgebung und welcher Build auf einer Seite bereitgestellt werden.
-* **Target:** Finden Sie heraus, für welche Aktivitäten Sie sich (nicht) qualifizieren und warum.
+* **Tags**: Ermitteln Sie, welche Property, welche Umgebung und welcher Build auf einer Seite bereitgestellt werden.
+* **Adobe Target**: Finden Sie heraus, für welche Aktivitäten Sie sich qualifizieren und warum.
+* **Adobe Analytics**: Ermitteln Sie, welche Report Suites auf der aktuellen Seite aktiv sind.
 
 ## Video-Tutorial
 

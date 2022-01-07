@@ -1,29 +1,28 @@
 ---
-description: Über Experience Platform Auditor
-keywords: debugger;experience platform debugger extension;chrome;extension;auditor;dtm;target
-seo-description: Über Experience Platform Auditor
 title: Auditor
+description: Erfahren Sie, wie Sie Ihre Adobe Experience Cloud-Implementierungen mit der Registerkarte "Auditor"in Adobe Experience Platform Debugger testen können.
+keywords: debugger;experience platform debugger extension;chrome;extension;auditor;dtm;target
 exl-id: 409094f8-a7d9-45f7-ba12-b5e6250abc0f
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: 38aa891a1de63ad395f12726597bd8bba82189e6
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 89%
+source-wordcount: '111'
+ht-degree: 32%
 
 ---
 
-# Auditor {#auditor}
+# Auditor
 
 >[!IMPORTANT]
 >
 >Adobe Experience Platform Debugger ist aktuell in der Betaversion verfügbar. Die Dokumentation und Funktionalität können sich ändern.
 
-Mit dem [Auditor](https://docs.adobe.com/content/help/de-DE/auditor/using/overview.html) von Adobe Experience Platform können Sie auf der Auditor-Seite eine Reihe von Audits ausführen.
+In Adobe Experience Platform Debugger können Sie die **[!UICONTROL Auditor]** , um eine Reihe von Audittests auf Ihrer Seite auszuführen.
 
-1. Klicken Sie in der linken Navigationsleiste auf **[!UICONTROL Auditor]**.
-1. Klicken Sie auf **[!UICONTROL Run Auditor Tests]**.
+So verwenden Sie diese Funktion:
 
-Die Testergebnisse werden angezeigt.
+1. Auswählen **[!UICONTROL Auditor]** in der linken Navigation.
+1. Wählen Sie **[!UICONTROL Run Auditor Tests]** aus. Sobald die Tests abgeschlossen sind, werden ihre Ergebnisse unten angezeigt.
 
-![](assets/auditor-results.jpg)
+![Screenshot der Testergebnisse auf der Registerkarte &quot;Auditor&quot;](./assets/auditor-results.png)
 
 In der Ergebnisliste werden der Test und das Ergebnis sowie Vorschläge zur Lösung von Problemen angezeigt.
