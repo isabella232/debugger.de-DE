@@ -1,15 +1,15 @@
 ---
 description: Verwenden der Lösungsregisterkarten im Adobe Debugger
 keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;solutions;solution;information;analytics;target;audience manager;media optimizer;amo;id service
-seo-description: Verwenden der Lösungsregisterkarten im Adobe Debugger
-seo-title: Lösungsregisterkarten im Adobe Debugger
-title: Lösungsregisterkarten
+seo-description: Using the Solution tabs in Adobe Debugger
+seo-title: Solution Tabs in Adobe Debugger
+title: Lösungsregisterkarten im Experience Cloud Debugger
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
 exl-id: 1364e3df-4eba-4270-9b58-1bf397f29a60
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: 2778ba78de3350ed1da01d452e303476b04c0303
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1077'
+ht-degree: 99%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Klicken Sie auf die Lösungsregisterkarten, um die Ergebnisse für bestimmte Adobe Experience Cloud-Lösungen anzuzeigen.
 
-## Analytics {#section-f71dfcc22bb44c86bec328491606a482}
+## Analysen {#section-f71dfcc22bb44c86bec328491606a482}
 
 Die Analytics-Registerkarte enthält Informationen zu Ihrer [Analytics](https://docs.adobe.com/content/help/de-DE/analytics/landing/home.html)-Implementierung.
 
