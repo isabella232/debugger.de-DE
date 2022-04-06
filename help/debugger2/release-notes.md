@@ -1,19 +1,17 @@
 ---
-description: Experience Platform Debugger – Versionshinweise
+title: Versionshinweise
+description: Die aktuellen Versionshinweise für Adobe Experience Platform Debugger.
 keywords: Debugger;Experience Platform Debugger-Erweiterung;Chrome;Erweiterung;Versionshinweise
-title: Experience Platform Debugger für Versionshinweise
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 exl-id: 3eed44da-5f85-413e-a783-3a0df03a2baf
-source-git-commit: 2778ba78de3350ed1da01d452e303476b04c0303
+source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
-source-wordcount: '290'
-ht-degree: 3%
+source-wordcount: '287'
+ht-degree: 1%
 
 ---
 
-# Versionshinweise{#release-notes}
-
-## Versionshinweise {#topic-a92c3eb799b74e7fa404af8af5efb215}
+# Versionshinweise
 
 ## Version 1.3.0 - 28. Januar 2022
 
@@ -27,16 +25,14 @@ ht-degree: 3%
 
 ## Version 1.2.0 - 26. Oktober 2021
 
-* Anzeigen von Ereignissen aus allen Browser-Registerkarten in der Netzwerkansicht. Um nur die Ereignisse von der aktuellen Registerkarte anzuzeigen, klicken Sie auf das Sperrsymbol in der rechten unteren Ecke des Debuggers.
+* Anzeigen von Ereignissen aus allen Browser-Registerkarten in der Netzwerkansicht. Um nur die Ereignisse aus der aktuellen Registerkarte anzuzeigen, wählen Sie das Sperrsymbol in der rechten unteren Ecke des Debuggers aus.
 * Das Branding wurde aktualisiert.
 
 ## Version 1.1.0 - 5. Oktober 2021
 
 * Visualisierung für Remote-Debugging - Organisieren Sie die Remote-Debugging-Ereignisse in einem visuellen Flussdiagramm im Abschnitt Adobe Experience Platform Web SDK > Edge-Transaktionen .
 * Die auf der Seite verwendete Adobe Experience Platform Web SDK-IMS-Organisation muss mit der angemeldeten Organisation übereinstimmen, wenn eine neue Remote-Debugging-Sitzung gestartet wird.
-* Zeigt nur die Edge-Transaktionen für die Registerkarte &quot;Verbunden&quot;an.
-
-> **Hinweis:** Target-Trace-Protokolle sind weiterhin im Abschnitt Protokolle > Edge verfügbar.
+* Zeigt nur die Edge-Transaktionen für die Registerkarte &quot;Verbunden&quot;an. Target-Trace-Protokolle sind weiterhin im Abschnitt Protokolle > Edge verfügbar.
 * Zulassen der Überschreibung der separaten Datenstrom-ID-Konfiguration für jede Instanz des Adobe Experience Platform Web SDK auf der Seite. Umschalter Debugging aktiviert hinzufügen.
 * Es wurde ein Problem behoben, bei dem das Adobe Target-Trace-Token nicht immer mit Remote-Debugging-Sitzungen für das Adobe Experience Platform Web SDK gesendet wurde.
 

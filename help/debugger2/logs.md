@@ -1,29 +1,25 @@
 ---
-description: Bildschirm für Experience Platform Debugger-Protokolle
+description: Erfahren Sie, wie Sie die Registerkarte Protokolle in Adobe Experience Platform Debugger verwenden.
 keywords: debugger;experience Platform Debugger extension;chrome;extension;logs
-seo-description: Bildschirm für Experience Platform Debugger-Protokolle
-seo-title: Protokolle
-title: Protokolle
+seo-description: Experience Platform Debugger Logs screen
+seo-title: Logs
+title: Registerkarte "Protokolle"
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
 exl-id: 137a97f2-7e02-4e09-b4c9-e48e20e044d1
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '131'
+ht-degree: 50%
 
 ---
 
-# Protokolle{#logs}
+# Registerkarte &quot;Protokolle&quot;
 
->[!IMPORTANT]
->
->Adobe Experience Platform Debugger ist aktuell in der Betaversion verfügbar. Die Dokumentation und Funktionalität können sich ändern.
-
-Der Bildschirm „Logs“ enthält spezifische Informationen zu DTM-, Adobe Experience Platform Launch- und Adobe Experience Platform Web SDK-Implementierungen. Das Konsolen-Debugging-Tool für DTM muss nicht aktiviert werden, damit diese Informationen angezeigt werden. Sie können die implementierten Lösungen über ihre zugeordneten Tools filtern.
+Die **Protokolle** tab enthält spezifische Informationen zu Tags und Adobe Experience Platform Web SDK-Implementierungen. Sie können die implementierten Lösungen über ihre zugeordneten Tools filtern.
 
 ![](assets/logs.jpg)
 
-Der Bildschirm „Protokolle“ zeigt Informationen in vier Spalten an:
+Auf der Registerkarte Protokolle werden Informationen in vier Spalten angezeigt:
 
 **[!UICONTROL Solutions]:** enthält Symbole für die Experience Cloud-Lösung, die vom protokollierten Element betroffen ist. Bewegen Sie den Mauszeiger über ein Symbol, um eine Textbeschreibung zu erhalten.
 
@@ -38,6 +34,6 @@ Der Bildschirm „Protokolle“ zeigt Informationen in vier Spalten an:
 
 **[!UICONTROL Log message]:** beschreibt das Problem.
 
-Einige Protokollinformationen enthalten die Option „Show Code“. Klicken Sie auf **[!UICONTROL Show Code]**, um den Bedingungscode anzuzeigen, der bestimmt, ob eine Regel ausgelöst wird.
+Einige Protokollinformationen enthalten die Option „Show Code“. Auswählen **[!UICONTROL Show Code]** , um den Bedingungscode anzuzeigen, der bestimmt, ob eine Regel ausgelöst werden soll.
 
-Um das Protokoll zu löschen, klicken Sie auf **[!UICONTROL Remove Logs]**.
+Um das Protokoll zu löschen, wählen Sie **[!UICONTROL Remove Logs]**.

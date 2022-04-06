@@ -1,32 +1,28 @@
 ---
-description: Bildschirm für Experience Platform Debugger-Ereignisse
+description: Erfahren Sie, wie Sie die Registerkarte Ereignisse im Adobe Experience Platform Debugger verwenden.
 keywords: debugger;experience platform debugger extension;chrome;extension;events;dtm;target
-seo-description: Bildschirm für Experience Platform Debugger-Ereignisse
-seo-title: Ereignisse
-title: Ereignisse
+seo-description: Experience Platform Debugger Events Screen
+seo-title: Events
+title: Registerkarte "Ereignisse"
 exl-id: 1f94ca36-d545-4e41-89a9-ed97c45991fb
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 94%
+source-wordcount: '165'
+ht-degree: 42%
 
 ---
 
-# Ereignisse{#events}
+# Registerkarte &quot;Ereignisse&quot;
 
->[!IMPORTANT]
->
->Adobe Experience Platform Debugger ist aktuell in der Betaversion verfügbar. Die Dokumentation und Funktionalität können sich ändern.
-
-Auf dem Bildschirm „Ereignisse“ werden die Ereignisse auf einer Timeline grafisch dargestellt.
+Die **Veranstaltungen** bietet eine grafische Ansicht der Ereignisse, die auf einer Timeline angezeigt werden.
 
 ![](assets/events.jpg)
 
-Für jedes Ereignis wird auf der Timeline ein Symbol der entsprechenden Lösung angezeigt. Mit den Symbolen werden auch Änderungen an der Datenschicht gekennzeichnet (sofern aktiviert). Wenn Sie den Mauszeiger über ein Symbol bewegen, erhalten Sie eine Zusammenfassung des jeweiligen Ereignisses. Durch Anklicken des Ereignisses erhalten Sie weitere Details. Wenn Sie mehrere Ereignisse anzeigen möchten, klicken Sie bei gedrückter Umschalt- oder Strg-Taste auf die Ereignisse.
+Für jedes Ereignis wird auf der Timeline ein Symbol der entsprechenden Lösung angezeigt. Mit den Symbolen werden auch Änderungen an der Datenschicht gekennzeichnet (sofern aktiviert). Wenn Sie den Mauszeiger über ein Symbol bewegen, erhalten Sie eine Zusammenfassung des jeweiligen Ereignisses. Wählen Sie im Ereignis aus, um weitere Details anzuzeigen. Sie können die Tastenkombination Umschalt+Auswählen oder Strg+Auswahl verwenden, um mehrere Ereignisse anzuzeigen.
 
 ![](assets/events-details.jpg)
 
-Durch Klicken auf ein Detail werden weitere Informationen dazu eingeblendet.
+Wählen Sie in einem Detail aus, um weitere Informationen zu erhalten.
 
 ![](assets/events-details-more.jpg)
 
@@ -34,15 +30,15 @@ Durch Klicken auf ein Detail werden weitere Informationen dazu eingeblendet.
 
 So aktivieren Sie das Verfolgen von Datenschichtänderungen auf der Timeline:
 
-1. Klicken Sie oben rechts auf das Zahnradsymbol.
+1. Wählen Sie oben rechts das Zahnradsymbol aus.
 1. Geben Sie den Namen Ihrer Datenschicht ein.
 
    ![](assets/event-datalayer.jpg)
 
-1. Klicken Sie auf **[!UICONTROL Save]**.
+1. Wählen Sie **[!UICONTROL Save]** aus.
 
-In den Details zu Datenschichtänderungen werden alle gelöschten oder hinzugefügten Elemente angezeigt. Wenn Sie auf **{}** klicken, werden Details von tieferen Datenschichten angezeigt.
+In den Details zu Datenschichtänderungen werden alle gelöschten oder hinzugefügten Elemente angezeigt. Sie können **{}** , um einen tieferen Einblick in die Datenschicht zu erhalten.
 
 ## Ereignisinformationen herunterladen
 
-Klicken Sie auf **[!UICONTROL Download]**, um eine Excel-Datei mit Informationen zu Ihren Seitenaufrufen herunterzuladen.
+Auswählen **[!UICONTROL Download]** , um eine Excel-Datei mit Informationen zu Ihren Seitenaufrufen herunterzuladen.

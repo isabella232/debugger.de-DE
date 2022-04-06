@@ -1,27 +1,21 @@
 ---
-description: Bildschirm für Experience Platform Debugger-Netzwerk
+title: Netzwerkregisterkarte
+description: Erfahren Sie, wie Sie die Registerkarte "Netzwerk"im Adobe Experience Platform Debugger verwenden.
 keywords: debugger;experience Platform Debugger extension;chrome;extension;network;information
-seo-description: Bildschirm für Experience Platform Debugger-Netzwerk
-seo-title: Netzwerkinformationen
-title: Netzwerkinformationen
+seo-description: Experience Platform Debugger Network screen
+seo-title: Network Tab
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 exl-id: ed0579ef-ec26-43df-9453-a395c105038a
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
-source-wordcount: '236'
-ht-degree: 96%
+source-wordcount: '215'
+ht-degree: 59%
 
 ---
 
-# Netzwerk{#network}
+# Netzwerkregisterkarte
 
->[!IMPORTANT]
->
->Adobe Experience Platform Debugger ist aktuell in der Betaversion verfügbar. Die Dokumentation und Funktionalität können sich ändern.
-
-Um Netzwerkinformationen anzuzeigen, klicken Sie auf **[!UICONTROL Network]**.
-
-Auf dem Bildschirm „Network“ werden Informationen zu allen Aufrufen zusammengefasst, die Adobe Experience Cloud-Lösungen auf der jeweiligen Seite durchführen – sortiert von links nach rechts. Standardparameter werden automatisch mit benutzerfreundlichen Namen versehen und so angeordnet, dass gemeinsame Parameter derselben Rolle zusammenstehen.
+Die **Netzwerk** -Tab fasst alle Adobe Experience Cloud-Lösungsaufrufe zusammen, die auf der Seite durchgeführt wurden, und zeigt sie von links nach rechts an. Standardparameter werden automatisch mit benutzerfreundlichen Namen versehen und so angeordnet, dass gemeinsame Parameter derselben Rolle zusammenstehen.
 
 ![](assets/network.jpg)
 
@@ -35,9 +29,9 @@ Um die entsprechenden Informationen einer Lösung anzuzeigen, wählen Sie die ge
 
 ![](assets/network-analytics.jpg)
 
-Wenn Sie wieder alle Lösungen anzeigen möchten, klicken Sie auf **[!UICONTROL Network]**.
+Um zur Anzeige aller Lösungen zurückzukehren, wählen Sie **[!UICONTROL Network]**
 
-Klicken Sie auf ein Element in der Netzwerkansicht, um es zu erweitern. In der erweiterten Ansicht können Sie die angezeigten Informationen in die Zwischenablage kopieren.
+Wählen Sie in der Netzwerkansicht ein Element aus, um eine erweiterte Ansicht anzuzeigen. In der erweiterten Ansicht können Sie die angezeigten Informationen in die Zwischenablage kopieren.
 
 ![](assets/network-expand.jpg)
 
@@ -45,6 +39,6 @@ Klicken Sie auf ein Element in der Netzwerkansicht, um es zu erweitern. In der e
 
 ![](assets/copy.jpg)-->
 
-Um die Liste zu löschen, klicken Sie auf **[!UICONTROL Remove Events]**.
+Um die Liste zu löschen, wählen Sie **[!UICONTROL Remove Events]**.
 
-Um eine Excel-Datei mit den auf diesem Bildschirm angezeigten Informationen herunterzuladen, klicken Sie auf **[!UICONTROL Download]**.
+Um eine Excel-Datei mit den Informationen auf diesem Bildschirm herunterzuladen, wählen Sie **[!UICONTROL Download]**.

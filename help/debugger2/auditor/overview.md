@@ -1,20 +1,16 @@
 ---
-title: Auditor
+title: Registerkarte "Auditor"
 description: Erfahren Sie, wie Sie Ihre Adobe Experience Cloud-Implementierungen mit der Registerkarte "Auditor"in Adobe Experience Platform Debugger testen können.
 keywords: debugger;experience platform debugger extension;chrome;extension;auditor;dtm;target
 exl-id: 409094f8-a7d9-45f7-ba12-b5e6250abc0f
-source-git-commit: 84aa9d71d3f3bc84a9bcbf18a9978428964f1f74
+source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
-source-wordcount: '373'
-ht-degree: 43%
+source-wordcount: '358'
+ht-degree: 40%
 
 ---
 
-# Auditor
-
->[!IMPORTANT]
->
->Adobe Experience Platform Debugger ist aktuell in der Betaversion verfügbar. Die Dokumentation und Funktionalität können sich ändern.
+# Registerkarte &quot;Auditor&quot;
 
 In Adobe Experience Platform Debugger können Sie die **[!UICONTROL Auditor]** , um eine Reihe von Audittests auf Ihrer Seite auszuführen.
 

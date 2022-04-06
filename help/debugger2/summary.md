@@ -1,29 +1,21 @@
 ---
-description: Experience Platform Debugger-Zusammenfassungsbildschirm
+title: Registerkarte "Zusammenfassung"
+description: Erfahren Sie, wie Sie die Registerkarte "Zusammenfassung"im Adobe Experience Platform Debugger verwenden.
 keywords: Debugger;Experience Platform Debugger-Erweiterung;Chrome;Erweiterung;Zusammenfassung;clear;Anfragen;Zusammenfassungsbildschirm;Lösung;Informationen;Analytics;Target;DTM;Audience Manager;Launch;ID-Dienst
-seo-description: Experience Platform Debugger-Zusammenfassungsbildschirm
-seo-title: Zusammenfassungsbildschirm
-title: Zusammenfassungsbildschirm
+seo-description: Experience Platform Debugger Summary Screen
+seo-title: Summary Tab
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 exl-id: 91234125-15c4-4111-9ee4-f3af093a3c4d
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: 220746028a55f613ae45f31cb74d5da3e187f374
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '916'
+ht-degree: 74%
 
 ---
 
-# Zusammenfassungsbildschirm{#summary-screen}
+# Registerkarte &quot;Zusammenfassung&quot;
 
->[!IMPORTANT]
->
->Adobe Experience Platform Debugger ist aktuell in der Betaversion verfügbar. Die Dokumentation und Funktionalität können sich ändern.
-
-Um Adobe Experience Platform Debugger auszuführen, klicken Sie auf das Symbol in Ihrer Browser-Leiste und öffnen Sie dann die Seite, die Sie im Browser untersuchen möchten.
-
-![](assets/start-icon.jpg)
-
-Hierdurch wird der Bildschirm „Summary“ des Adobe Experience Platform Debugger angezeigt.
+Um Adobe Experience Platform Debugger auszuführen, öffnen Sie die Seite, die Sie im Browser untersuchen möchten, und wählen Sie dann das Symbol (![](assets/start-icon.jpg)) in Ihrer Browser-Leiste. Die Erweiterung wird im **Zusammenfassung** Registerkarte.
 
 ![](assets/summary.jpg)
 
@@ -79,13 +71,13 @@ Experience Platform Debugger zeigt die folgenden Informationen zu den verschiede
  </tbody> 
 </table>
 
-**Adobe Experience Platform Launch**
+**Adobe Experience Platform Tags**
 
 <table id="table_E9574975444A407887E26514D1BB1601"> 
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Name </p> </td> 
-   <td colname="col2"> <p>Der Name der Platform Launch-<a href="https://docs.adobe.com/content/help/de-DE/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external">Ressource</a>. </p> </td> 
+   <td colname="col2"> <p>Der Name des Tags <a href="https://experienceleague.adobe.com/docs/experience-platform/tags/admin/companies-and-properties.html" format="https" scope="external"> property</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
@@ -93,11 +85,11 @@ Experience Platform Debugger zeigt die folgenden Informationen zu den verschiede
   </tr> 
   <tr> 
    <td colname="col1"> <p>Build-Datum </p> </td> 
-   <td colname="col2"> <p>Das Build-Datum der Platform Launch-<a href="https://docs.adobe.com/content/help/de-DE/launch/using/reference/publish/libraries.html" format="https" scope="external">Bibliothek</a>. </p> </td> 
+   <td colname="col2"> <p>Das Tag <a href="https://experienceleague.adobe.com/docs/experience-platform/tags/publish/libraries.html" format="https" scope="external"> Bibliothek</a> Build-Datum </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Umgebung </p> </td> 
-   <td colname="col2"> <p>Die von der Platform Launch-Bibliothek verwendete <a href="https://docs.adobe.com/content/help/de-DE/launch/using/reference/publish/environments.html" format="https" scope="external">Umgebung</a>. </p> </td> 
+   <td colname="col2"> <p>Die <a href="https://experienceleague.adobe.com/docs/experience-platform/tags/publish/environments/environments.html" format="https" scope="external"> Umgebung</a> von der Tag-Bibliothek verwendet </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Erweiterungen </p> </td> 
@@ -112,7 +104,7 @@ Experience Platform Debugger zeigt die folgenden Informationen zu den verschiede
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Bibliotheksversion </p> </td> 
-   <td colname="col2"> <p>Die Nummer der Adobe Experience Platform Web SDK-<a href="https://docs.adobe.com/content/help/de-DE/launch/using/extensions-ref/adobe-extension/aep-extension/overview.html" format="html" scope="external">Bibliotheksversion</a>. </p> </td> 
+   <td colname="col2"> <p>Die Nummer der Adobe Experience Platform Web SDK-<a href="https://experienceleague.adobe.com/docs/experience-platform/edge/extension/web-sdk-ext-release-notes.html" format="html" scope="external">Bibliotheksversion</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Namespace</p> </td> 
@@ -120,11 +112,11 @@ Experience Platform Debugger zeigt die folgenden Informationen zu den verschiede
   </tr> 
   <tr> 
    <td colname="col1"> <p>Property-ID </p> </td> 
-   <td colname="col2"> <p>Der Name der in der Erweiterung angegebenen Platform Launch-Property. </p> </td> 
+   <td colname="col2"> <p>Der Name der in der Erweiterung angegebenen Tag-Eigenschaft. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Edge-Domäne </p> </td> 
-   <td colname="col2"> <p>Die Domäne, von der die Adobe Experience Platform-Erweiterung Daten sendet und empfängt. </p> </td> 
+   <td colname="col2"> <p>Die Domain, von der die Adobe Experience Platform-Erweiterung Daten sendet und empfängt. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>IMS-Organisations-ID </p> </td> 
@@ -158,47 +150,47 @@ Experience Platform Debugger zeigt die folgenden Informationen zu den verschiede
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Clientcode </p> </td> 
-   <td colname="col2"> <p>Ihr Target-<a href="https://docs.adobe.com/content/help/de-DE/target/using/implement-target/client-side/deploy-at-js/implementing-target-without-a-tag-manager.html" format="html" scope="external"> Kundencode</a>. </p> </td> 
+   <td colname="col2"> <p>Ihr Target-<a href="https://experienceleague.adobe.com/docs/target/using/implement-target/client-side/at-js-implementation/deploy-at-js/implementing-target-without-a-tag-manager.html" format="html" scope="external"> Kundencode</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
-   <td colname="col2"> <p>Ihre aktuelle <a href="https://docs.adobe.com/content/help/de-DE/target/using/implement-target/client-side/target-atjs-versions.html" format="html" scope="external"> at.js</a>- oder mbox.js-Version. </p> </td> 
+   <td colname="col2"> <p>Ihre aktuelle <a href="https://experienceleague.adobe.com/docs/target/using/implement-target/client-side/at-js-implementation/target-atjs-versions.html" format="html" scope="external"> at.js</a>- oder mbox.js-Version. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Globaler Anforderungsname </p> </td> 
-   <td colname="col2"> <p>Die<a href="https://docs.adobe.com/help/de-DE/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external"> globale Mbox</a> bezieht sich auf den einzelnen Server-Aufruf, der oben auf jeder Webseite in Ihrer Target-Implementierung durchgeführt wird. </p> </td> 
+   <td colname="col2"> <p>Die<a href="https://experienceleague.adobe.com/docs/target/using/implement-target/client-side/global-mbox/understanding-global-mbox.html" format="html" scope="external"> globale Mbox</a> bezieht sich auf den einzelnen Server-Aufruf, der oben auf jeder Webseite in Ihrer Target-Implementierung durchgeführt wird. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Ereignis zum Laden der Seite </p> </td> 
-   <td colname="col2"> <p>Der Typ des <a href="https://docs.adobe.com/content/help/de-DE/launch/using/extensions-ref/adobe-extension/target-extension/overview.html" format="html" scope="external">Ereignisses</a>, das beim Laden der Seite ausgelöst wird. </p> </td> 
+   <td colname="col2"> <p>Der Typ des <a href="https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/target/overview.html?lang=de" format="html" scope="external">Ereignisses</a>, das beim Laden der Seite ausgelöst wird. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Name einer Anfrage </p> </td> 
-   <td colname="col2"> <p>Der Name einer Anfrage zu einer <a href="https://docs.adobe.com/content/help/de-DE/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external"> Position</a> auf der Seite. Ist nur dann ohne Authentifizierung verfügbar, wenn Sie den Debugging-Ereignis-Listener in Ihren Code oder Tag-Manager implementieren und die erforderlichen <a href="https://docs.adobe.com/content/help/de-DE/target/using/administer/response-tokens.html" format="html" scope="external"> Antwort-Tokens</a> in der Target-Benutzeroberfläche aktivieren. </p> </td> 
+   <td colname="col2"> <p>Der Name einer Anfrage zu einer <a href="https://experienceleague.adobe.com/docs/target/using/implement-target/client-side/global-mbox/understanding-global-mbox.html" format="html" scope="external"> Position</a> auf der Seite. Ist nur dann ohne Authentifizierung verfügbar, wenn Sie den Debugging-Ereignis-Listener in Ihren Code oder Tag-Manager implementieren und die erforderlichen <a href="https://experienceleague.adobe.com/docs/target/using/administer/response-tokens.html" format="html" scope="external"> Antwort-Tokens</a> in der Target-Benutzeroberfläche aktivieren. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Aktivitätsname </p> </td> 
-   <td colname="col2"> <p>Name der Target-<a href="https://docs.adobe.com/content/help/de-DE/target/using/activities/activities.html" format="html" scope="external"> Kampagne oder -Aktivität</a>. Ist nur dann ohne Authentifizierung verfügbar, wenn Sie den Debugging-Ereignis-Listener in Ihren Code oder Tag-Manager implementieren und die erforderlichen <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> Antwort-Tokens</a> in der Target-Benutzeroberfläche aktivieren. </p> </td> 
+   <td colname="col2"> <p>Name der Target-<a href="https://experienceleague.adobe.com/docs/target/using/activities/activities.html" format="html" scope="external"> Kampagne oder -Aktivität</a>. Ist nur dann ohne Authentifizierung verfügbar, wenn Sie den Debugging-Ereignis-Listener in Ihren Code oder Tag-Manager implementieren und die erforderlichen <a href="https://experienceleague.adobe.com/docs/target/using/administer/response-tokens.html" format="html" scope="external"> Antwort-Tokens</a> in der Target-Benutzeroberfläche aktivieren. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Activity ID </p> </td> 
-   <td colname="col2"> <p>Die ID der Target-Aktivität. Ist nur dann ohne Authentifizierung verfügbar, wenn Sie den Debugging-Ereignis-Listener in Ihren Code oder Tag-Manager implementieren und die erforderlichen <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> Antwort-Tokens</a> in der Target-Benutzeroberfläche aktivieren. </p> </td> 
+   <td colname="col2"> <p>Die ID der Target-Aktivität. Ist nur dann ohne Authentifizierung verfügbar, wenn Sie den Debugging-Ereignis-Listener in Ihren Code oder Tag-Manager implementieren und die erforderlichen <a href="https://experienceleague.adobe.com/docs/target/using/administer/response-tokens.html" format="html" scope="external"> Antwort-Tokens</a> in der Target-Benutzeroberfläche aktivieren. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Name des Erlebnisses </p> </td> 
-   <td colname="col2"> <p>Name des Target-<a href="https://docs.adobe.com/content/help/de-DE/target/using/experiences/experiences.html" format="html" scope="external"> Erlebnisses</a>. Ist nur dann ohne Authentifizierung verfügbar, wenn Sie den Debugging-Ereignis-Listener in Ihren Code oder Tag-Manager implementieren und die erforderlichen <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> Antwort-Tokens</a> in der Target-Benutzeroberfläche aktivieren. </p> </td> 
+   <td colname="col2"> <p>Name des Target-<a href="https://experienceleague.adobe.com/docs/target/using/experiences/experiences.html" format="html" scope="external"> Erlebnisses</a>. Ist nur dann ohne Authentifizierung verfügbar, wenn Sie den Debugging-Ereignis-Listener in Ihren Code oder Tag-Manager implementieren und die erforderlichen <a href="https://experienceleague.adobe.com/docs/target/using/administer/response-tokens.html" format="html" scope="external"> Antwort-Tokens</a> in der Target-Benutzeroberfläche aktivieren. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Erlebnis-ID </p> </td> 
-   <td colname="col2"> <p>Die ID des Target-Erlebnisses. Ist nur dann ohne Authentifizierung verfügbar, wenn Sie den Debugging-Ereignis-Listener in Ihren Code oder Tag-Manager implementieren und die erforderlichen <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> Antwort-Tokens</a> in der Target-Benutzeroberfläche aktivieren. </p> </td> 
+   <td colname="col2"> <p>Die ID des Target-Erlebnisses. Ist nur dann ohne Authentifizierung verfügbar, wenn Sie den Debugging-Ereignis-Listener in Ihren Code oder Tag-Manager implementieren und die erforderlichen <a href="https://experienceleague.adobe.com/docs/target/using/administer/response-tokens.html" format="html" scope="external"> Antwort-Tokens</a> in der Target-Benutzeroberfläche aktivieren. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Angebot Name</p> </td> 
-   <td colname="col2"> <p>Name des Target-<a href="https://docs.adobe.com/content/help/de-DE/target/using/experiences/offers/manage-content.html" format="html" scope="external"> Angebots</a>. Ist nur dann ohne Authentifizierung verfügbar, wenn Sie den Debugging-Ereignis-Listener in Ihren Code oder Tag-Manager implementieren und die erforderlichen <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> Antwort-Tokens</a> in der Target-Benutzeroberfläche aktivieren. </p> </td> 
+   <td colname="col2"> <p>Name des Target-<a href="https://experienceleague.adobe.com/docs/target/using/experiences/offers/manage-content.html" format="html" scope="external"> Angebots</a>. Ist nur dann ohne Authentifizierung verfügbar, wenn Sie den Debugging-Ereignis-Listener in Ihren Code oder Tag-Manager implementieren und die erforderlichen <a href="https://experienceleague.adobe.com/docs/target/using/administer/response-tokens.html" format="html" scope="external"> Antwort-Tokens</a> in der Target-Benutzeroberfläche aktivieren. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Offer ID </p> </td> 
-   <td colname="col2"> <p>Die ID des Target-Angebots. Ist nur dann ohne Authentifizierung verfügbar, wenn Sie den Debugging-Ereignis-Listener in Ihren Code oder Tag-Manager implementieren und die erforderlichen <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> Antwort-Tokens</a> in der Target-Benutzeroberfläche aktivieren. </p> </td> 
+   <td colname="col2"> <p>Die ID des Target-Angebots. Ist nur dann ohne Authentifizierung verfügbar, wenn Sie den Debugging-Ereignis-Listener in Ihren Code oder Tag-Manager implementieren und die erforderlichen <a href="https://experienceleague.adobe.com/docs/target/using/administer/response-tokens.html" format="html" scope="external"> Antwort-Tokens</a> in der Target-Benutzeroberfläche aktivieren. </p> </td> 
   </tr> 
  </tbody> 
 </table>
