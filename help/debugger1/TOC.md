@@ -1,7 +1,7 @@
 ---
 cloud: Experience Cloud
 product: experience cloud
-sub-product: Experience Cloud Debugger
+sub-product: experience cloud debugger
 solution: Experience Cloud, Debugger
 audience: end-user
 user-guide-title: Experience Cloud Debugger-Hilfe
