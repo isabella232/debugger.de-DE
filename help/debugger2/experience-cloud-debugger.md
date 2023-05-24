@@ -9,7 +9,7 @@ exl-id: e02bc318-fbff-4a19-980a-d5c0a21ca300
 source-git-commit: 5e6481c6f4b0ffe64440b1c550511fbf155a19b4
 workflow-type: tm+mt
 source-wordcount: '270'
-ht-degree: 10%
+ht-degree: 12%
 
 ---
 
@@ -19,7 +19,7 @@ Die Adobe Experience Platform Debugger-Erweiterung für [Chrome](https://chrome.
 
 Sie können Platform Debugger mit den anderen Adobe-Aktivierungslösungen verwenden, um Folgendes auszuführen:
 
-1. Verwendung [tags](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=de) in der Datenerfassungs-Benutzeroberfläche, um Code einzufügen, der aktiviert ist [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html) Produkte auf Ihren Seiten.
+1. Verwendung [tags](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=de) in der Datenerfassungs-Benutzeroberfläche, um Code einzufügen, der aktiviert ist [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=de) Produkte auf Ihren Seiten.
 1. Verwenden Sie die [**[!UICONTROL Auditor]**tab](./auditor/overview.md) in Platform Debugger , um Ihre Implementierungen zu testen.
 1. Verwenden Sie ereignisbasierte und lösungsspezifische Tools in Platform Debugger, um von Auditor gefundene Probleme zu beheben oder andere Informationen über Ihre Implementierungen zu untersuchen.
 

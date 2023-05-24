@@ -6,17 +6,17 @@ exl-id: 409094f8-a7d9-45f7-ba12-b5e6250abc0f
 source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
 source-wordcount: '358'
-ht-degree: 40%
+ht-degree: 43%
 
 ---
 
-# Registerkarte &quot;Auditor&quot;
+# Registerkarte „Auditor“ 
 
 In Adobe Experience Platform Debugger können Sie die **[!UICONTROL Auditor]** , um eine Reihe von Audittests auf Ihrer Seite auszuführen.
 
 So verwenden Sie diese Funktion:
 
-1. Auswählen **[!UICONTROL Auditor]** in der linken Navigation.
+1. Wählen Sie **[!UICONTROL Auditor]** in der linken Navigationsleiste aus.
 1. Wählen Sie **[!UICONTROL Run Auditor Tests]** aus. Sobald die Tests abgeschlossen sind, werden ihre Ergebnisse unten angezeigt.
 
 ![Screenshot der Testergebnisse auf der Registerkarte &quot;Auditor&quot;](../assets/auditor-results.png)

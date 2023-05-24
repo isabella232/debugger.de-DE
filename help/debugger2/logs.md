@@ -9,11 +9,11 @@ exl-id: 137a97f2-7e02-4e09-b4c9-e48e20e044d1
 source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
 source-wordcount: '131'
-ht-degree: 50%
+ht-degree: 51%
 
 ---
 
-# Registerkarte &quot;Protokolle&quot;
+# Registerkarte „Protokolle“
 
 Die **Protokolle** tab enthält spezifische Informationen zu Tags und Adobe Experience Platform Web SDK-Implementierungen. Sie können die implementierten Lösungen über ihre zugeordneten Tools filtern.
 

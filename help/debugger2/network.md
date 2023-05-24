@@ -9,11 +9,11 @@ exl-id: ed0579ef-ec26-43df-9453-a395c105038a
 source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
 source-wordcount: '215'
-ht-degree: 59%
+ht-degree: 60%
 
 ---
 
-# Netzwerkregisterkarte
+# Registerkarte „Netzwerk“
 
 Die **Netzwerk** -Tab fasst alle Adobe Experience Cloud-Lösungsaufrufe zusammen, die auf der Seite durchgeführt wurden, und zeigt sie von links nach rechts an. Standardparameter werden automatisch mit benutzerfreundlichen Namen versehen und so angeordnet, dass gemeinsame Parameter derselben Rolle zusammenstehen.
 

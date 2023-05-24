@@ -6,36 +6,36 @@ uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 exl-id: 3eed44da-5f85-413e-a783-3a0df03a2baf
 source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '287'
+ht-degree: 91%
 
 ---
 
 # Versionshinweise
 
-## Version 1.3.0 - 28. Januar 2022
+## Version 1.3.0 – 28. Januar 2022
 
-* Der Link Info wurde hinzugefügt, um die aktuelle Version und Hinweise anzuzeigen.
-* Ein Umschalter wurde hinzugefügt, um nach der Verarbeitung gesendete Treffer für Analytics-Anforderungen anzuzeigen. Der Umschalter ist im Abschnitt Analytics verfügbar.
-* Fehlerkorrektur - Sitzungsfehler beim Remote-Debugging wurde behoben, der auftrat, wenn die Sitzung außerhalb des Debuggers geschlossen wurde.
-* Fehlerkorrektur - Die Fehlerbenachrichtigung, die auf der Registerkarte &quot;Edge-Transaktionen&quot;des Web SDK angezeigt wurde, wurde korrigiert.
-* Die Adobe-Tags bei veralteter Seite wurden korrigiert, wenn der Debugger auf das _satellite -Objekt zugegriffen hat.
-* Es wurden einige Fälle behoben, in denen eine AppMeasurement-Instanz auf der Seite nicht gefunden wurde.
+* Es wurde ein „Info über“-Link hinzugefügt, um die aktuelle Version und Hinweise anzuzeigen.
+* Es wurde ein Umschalter hinzugefügt, um Nachbearbeitungstreffer für Analytics-Anfragen anzuzeigen. Der Umschalter ist im Analytics-Abschnitt verfügbar.
+* Es wurde ein Remote-Debugging-Sitzungsfehler behoben, der auftrat, wenn die Sitzung außerhalb des Debuggers geschlossen wurde.
+* Es wurde ein Fehler bei einer Fehlerbenachrichtigung behoben, der auf der Web SDK-Registerkarte für Edge-Transaktionen angezeigt wurde.
+* Es wurden Adobe-Tags bei Warnungen für veraltete Seiten korrigiert, wenn der Debugger auf das _satellite-Objekt zugegriffen hat.
+* Es wurden einige Fälle korrigiert, bei denen eine AppMeasurement-Instanz auf der Seite nicht gefunden wurde.
 * Es wurde ein Problem mit der Seitenverbindung behoben, das beim ersten Öffnen des Debugger-Fensters auftrat.
 
-## Version 1.2.0 - 26. Oktober 2021
+## Version 1.2.0 – 26. Oktober 2021
 
-* Anzeigen von Ereignissen aus allen Browser-Registerkarten in der Netzwerkansicht. Um nur die Ereignisse aus der aktuellen Registerkarte anzuzeigen, wählen Sie das Sperrsymbol in der rechten unteren Ecke des Debuggers aus.
+* Es werden Ereignisse von allen Browser-Registerkarten in der Netzwerkansicht angezeigt. Um nur die Ereignisse von der aktuellen Registerkarte anzuzeigen, wählen Sie das Schlosssymbol unten rechts im Debugger aus.
 * Das Branding wurde aktualisiert.
 
-## Version 1.1.0 - 5. Oktober 2021
+## Version 1.1.0 – 5. Oktober 2021
 
-* Visualisierung für Remote-Debugging - Organisieren Sie die Remote-Debugging-Ereignisse in einem visuellen Flussdiagramm im Abschnitt Adobe Experience Platform Web SDK > Edge-Transaktionen .
+* Visualisierung für Remote-Debugging: Remote-Debugging-Ereignisse werden in einem visuellen Flussdiagramm unter „Adobe Experience Platform Web SDK > Edge-Transaktionen“ organisiert.
 * Die auf der Seite verwendete Adobe Experience Platform Web SDK-IMS-Organisation muss mit der angemeldeten Organisation übereinstimmen, wenn eine neue Remote-Debugging-Sitzung gestartet wird.
-* Zeigt nur die Edge-Transaktionen für die Registerkarte &quot;Verbunden&quot;an. Target-Trace-Protokolle sind weiterhin im Abschnitt Protokolle > Edge verfügbar.
-* Zulassen der Überschreibung der separaten Datenstrom-ID-Konfiguration für jede Instanz des Adobe Experience Platform Web SDK auf der Seite. Umschalter Debugging aktiviert hinzufügen.
-* Es wurde ein Problem behoben, bei dem das Adobe Target-Trace-Token nicht immer mit Remote-Debugging-Sitzungen für das Adobe Experience Platform Web SDK gesendet wurde.
+* Es werden nur die Edge-Transaktionen für die Registerkarte „Verbunden“ angezeigt. Target-Trace-Protokolle sind weiterhin unter „Protokolle“ > „Edge“ verfügbar.
+* Das Überschreiben separater Datenstrom-ID-Konfigurationen für jede Instanz des Adobe Experience Platform Web SDK auf der Seite ist jetzt zulässig. Ein Debugging-fähiger Umschalter wurde hinzugefügt.
+* Es wurde ein Problem behoben, durch das das Adobe Target-Trace-Token nicht immer mit Remote-Debugging-Sitzungen für das Adobe Experience Platform Web SDK gesendet wurde.
 
-## Version 1.0.0 5. Mai 2021
+## Version 1.0.0 – 5. Mai 2021
 
-* Erste Hauptversion von Experience Platform Debugger. Soll den Experience Cloud Debugger ersetzen.
+* Erste Hauptversion von Experience Platform Debugger. Soll Experience Cloud Debugger ersetzen.

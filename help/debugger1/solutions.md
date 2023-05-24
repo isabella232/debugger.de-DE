@@ -69,7 +69,7 @@ Klicken Sie auf **[!UICONTROL Requests]** und erweitern Sie die Umgebung, um Inf
 
 Klicken Sie auf **[!UICONTROL Clear All Requests]**, um die aktuellen Anfragen zu entfernen. Neue Anfragen werden angezeigt, sobald sie auftreten.
 
-Sie können auch den Target-Filter verwenden, um [Mbox Trace für Target-Debugging zu aktivieren](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html).
+Sie können auch den Target-Filter verwenden, um [Mbox Trace für Target-Debugging zu aktivieren](https://docs.adobe.com/content/help/de-DE/target/using/activities/troubleshoot-activities/content-trouble.html).
 
 Sie müssen auf einem Chrome-Tab bei Experience Cloud angemeldet sein, um Mbox Trace zu aktivieren. Einmal aktiviert, wird Ihr Adobe ID-Benutzername angezeigt. Erweitern Sie Ihren Benutzernamen, um die Target-Kundencodes anzuzeigen, die den Ihnen verfügbaren Experience Cloud-Organisationen zugeordnet sind. Klicken Sie auf den Kundencode, für den Sie Mbox Trace aktivieren möchten, und überprüfen Sie, ob das grüne Häkchen angezeigt wird. Hierdurch werden alle Target-Anfragen mit Mbox Trace-Informationen angezeigt, gruppiert nach Kundencode. Um die Mbox Trace-Informationen abzurufen, erweitern Sie die Anfrage. Hierdurch werden folgende Registerkarten angezeigt:
 
@@ -77,7 +77,7 @@ Sie müssen auf einem Chrome-Tab bei Experience Cloud angemeldet sein, um Mbox 
 
 * Anfrage
 
-   Die Anfragenregisterkarte von [Mbox Trace](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html) ähnelt der Haupt-Anfragenregisterkarte. Sie können alle von der Target-Anfrage übergebenen Parameter anzeigen, zusätzlich zu den Anfrageheadern.
+   Die Anfragenregisterkarte von [Mbox Trace](https://docs.adobe.com/content/help/de-DE/target/using/activities/troubleshoot-activities/content-trouble.html) ähnelt der Haupt-Anfragenregisterkarte. Sie können alle von der Target-Anfrage übergebenen Parameter anzeigen, zusätzlich zu den Anfrageheadern.
 * Profil
 
    Erweitern Sie den Abschnitt „Profile Snapshot“, um die [Profilinformationen](https://docs.adobe.com/content/help/de-DE/target/using/audiences/visitor-profiles/variables-profiles-parameters-methods.html) anzuzeigen, die zu Ihnen als Besucher in der Target-Profildatenbank gespeichert sind. Alle All In-Mbox- und Skriptprofile werden hier angezeigt – neben einigen Systemprofilen. Die Statusspalte zeigt an, welche Profile im Rahmen dieser Anfrage geändert wurden, und enthält die jeweiligen Werte vor und nach Eingang der Anfrage im Profilsystem.
@@ -117,7 +117,7 @@ Klicken Sie auf **[!UICONTROL Requests]** und erweitern Sie die Umgebung, um Inf
 
 Klicken Sie auf **[!UICONTROL Clear All Requests]**, um die aktuellen Anfragen zu entfernen. Neue Anfragen werden angezeigt, sobald sie auftreten.
 
-## Experience Cloud ID-Service {#section-a96c32f8e63a4991abb296f6e8ea01cf}
+## Experience Cloud ID Service {#section-a96c32f8e63a4991abb296f6e8ea01cf}
 
 Über die Registerkarte „Experience Cloud ID Service“ können Sie [Experience Cloud ID-Dienst](https://docs.adobe.com/content/help/de-DE/id-service/using/home.html)-Anfragen anzeigen.
 

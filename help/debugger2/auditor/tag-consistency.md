@@ -4,8 +4,8 @@ description: Erfahren Sie, wie die Auditor-Funktion im Adobe Experience Platform
 exl-id: 642b0c49-a7c7-4142-8189-67f00ed50015
 source-git-commit: f18828bcaa0d244bd5b117fd8bf1c1cdba4d4b52
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 44%
+source-wordcount: '123'
+ht-degree: 43%
 
 ---
 
@@ -23,4 +23,4 @@ Tag-Konsistenztests suchen Inkonsistenzen auf allen geprüften Seiten. Dies sind
 | --- | --- | --- | --- |
 | Adobe Analytics - Konsistente Codeversion | 5 | Es wurde mehr als eine Version des Analytics-Codes gefunden. | Ersetzen Sie alle Instanzen von Analytics durch die aktuelle Version.<br><br>[Weitere Informationen](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=de) |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
